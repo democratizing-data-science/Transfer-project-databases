@@ -1,5 +1,5 @@
 #Statewide Policies Influence in Partnership Formation (Question 6)
-a <- read.csv("D:/Dropbox (Penn GSE)/virtual/Drive_Phudcfily/Transfer project/prop.colleges.w.agreements.csv")
+a <- read.csv("https://raw.githubusercontent.com/democratizing-data-science/Transfer-project-databases-and_code/main/prop.colleges.w.agreements.csv")
 mods1 <- lm(prop_agg~numb, data=a)
 mods2 <- lm(prop_agg~Core_lower_division, data=a)
 mods3 <- lm(prop_agg~Common_numbering, data=a)
