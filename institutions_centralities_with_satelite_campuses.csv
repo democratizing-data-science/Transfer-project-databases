@@ -1,0 +1,1210 @@
+bet,eig,degree,strength,name,sector,sect_level,deg,strg,key_actors,st
+0.328,0.722,44,503,Montgomery County Community College,4,Pub_2-yr,0.587,0.701,2.338,PA
+0.116,0.989,25,604,Bucks County Community College,4,Pub_2-yr,0.333,0.841,2.279,PA
+0.042,0.929,23,641,Indiana University of Pennsylvania-Main Campus,1,Pub_4-yr,0.307,0.893,2.171,PA
+0,0.987,21,604,Community College of Philadelphia,4,Pub_2-yr,0.28,0.841,2.108,PA
+0.69,0.023,61,376,Purdue University Global-Davenport (formerly Kaplan University-Davenport),1,Pub_4-yr,0.813,0.524,2.05,IA
+0,1,17,549,Shippensburg University of Pennsylvania,1,Pub_4-yr,0.227,0.765,1.992,PA
+0.831,0,75,75,University of San Francisco,2,Priv_4-yr_No-prof,1,0.104,1.935,CA
+0.12,0.798,29,448,Edinboro University of Pennsylvania,1,Pub_4-yr,0.387,0.624,1.929,PA
+0.257,0.683,32,388,Clarion University of Pennsylvania,1,Pub_4-yr,0.427,0.54,1.907,PA
+0,0.925,18,523,Mansfield University of Pennsylvania,1,Pub_4-yr,0.24,0.728,1.893,PA
+0.004,0.838,23,518,Harrisburg Area Community College-Harrisburg,4,Pub_2-yr,0.307,0.721,1.87,PA
+0,0.88,17,517,Slippery Rock University of Pennsylvania,1,Pub_4-yr,0.227,0.72,1.827,PA
+0.012,0.838,20,498,Butler County Community College,4,Pub_2-yr,0.267,0.694,1.811,PA
+0.836,0,63,63,University of Toledo,1,Pub_4-yr,0.84,0.088,1.764,OH
+0,0.838,17,479,Carlow University,2,Priv_4-yr_No-prof,0.227,0.667,1.732,PA
+0.459,0.284,33,392,Drexel University,2,Priv_4-yr_No-prof,0.44,0.546,1.729,PA
+0.028,0.649,25,446,Delaware County Community College,4,Pub_2-yr,0.333,0.621,1.631,PA
+1,0.002,41,59,Strayer University-District of Columbia,3,Priv_4-yr-Profit,0.547,0.082,1.631,DC
+0.026,0.712,22,426,Lehigh Carbon Community College,4,Pub_2-yr,0.293,0.593,1.624,PA
+0.801,0.009,42,165,Northern Virginia Community College,4,Pub_2-yr,0.56,0.23,1.6,VA
+0.038,0.693,20,412,Community College of Beaver County,4,Pub_2-yr,0.267,0.574,1.572,PA
+0.022,0.667,21,411,Community College of Allegheny County,4,Pub_2-yr,0.28,0.572,1.541,PA
+0.016,0.625,22,397,Northampton County Area Community College,4,Pub_2-yr,0.293,0.553,1.487,PA
+0.747,0.006,31,227,Jamestown Community College,4,Pub_2-yr,0.413,0.316,1.482,NY
+0.029,0.039,34,688,SUNY College of Environmental Science and Forestry,1,Pub_4-yr,0.453,0.958,1.479,NY
+0.582,0,58,58,University of North Carolina at Chapel Hill,1,Pub_4-yr,0.773,0.081,1.436,NC
+0,0.002,24,718,George Mason University,1,Pub_4-yr,0.32,1,1.322,VA
+0.888,0,23,75,Western Kentucky University,1,Pub_4-yr,0.307,0.104,1.299,KY
+0,0.577,18,332,California University of Pennsylvania,1,Pub_4-yr,0.24,0.462,1.279,PA
+0.005,0.501,22,335,Westmoreland County Community College,4,Pub_2-yr,0.293,0.467,1.266,PA
+0.388,0,33,262,Seattle University,2,Priv_4-yr_No-prof,0.44,0.365,1.193,WA
+0,0,39,477,Regis University,2,Priv_4-yr_No-prof,0.52,0.664,1.184,CO
+0.801,0,23,46,SUNY College at Oswego,1,Pub_4-yr,0.307,0.064,1.172,NY
+0.432,0,47,58,Azusa Pacific University,2,Priv_4-yr_No-prof,0.627,0.081,1.14,CA
+0.333,0,34,242,Columbia College-Chicago,2,Priv_4-yr_No-prof,0.453,0.337,1.123,PR
+0,0.497,17,281,Kutztown University of Pennsylvania,1,Pub_4-yr,0.227,0.391,1.115,PA
+0,0.486,17,285,Luzerne County Community College,4,Pub_2-yr,0.227,0.397,1.11,PA
+0.035,0.417,24,239,Lock Haven University,1,Pub_4-yr,0.32,0.333,1.105,PA
+0.994,0,7,7,Glendale Community College - California,4,Pub_2-yr,0.093,0.01,1.097,CA
+0.384,0,21,305,University of Missouri-Columbia,1,Pub_4-yr,0.28,0.425,1.089,MO
+0.476,0.002,28,169,SUNY Adirondack (formerly Adirondack Community College),4,Pub_2-yr,0.373,0.235,1.086,NY
+0.394,0,39,89,Mountain Empire Community College,4,Pub_2-yr,0.52,0.124,1.038,VA
+0.672,0,17,92,University of Kentucky,1,Pub_4-yr,0.227,0.128,1.027,KY
+0.033,0.369,21,245,Pennsylvania Highlands Community College,4,Pub_2-yr,0.28,0.341,1.023,PA
+0,0.432,17,244,West Chester University of Pennsylvania,1,Pub_4-yr,0.227,0.34,0.999,PA
+0.38,0,39,50,Texas Tech University,1,Pub_4-yr,0.52,0.07,0.97,TX
+0.551,0,24,47,Bluefield College,2,Priv_4-yr_No-prof,0.32,0.065,0.936,VA
+0.361,0.003,26,160,SUNY College of Agriculture and Technology at Cobleskill,1,Pub_4-yr,0.347,0.223,0.934,NY
+0.324,0,25,179,Bristol Community College,4,Pub_2-yr,0.333,0.249,0.906,MA
+0,0.372,18,209,Lincoln University of Pennsylvania,1,Pub_4-yr,0.24,0.291,0.903,PA
+0.058,0.334,18,194,Bloomsburg University of Pennsylvania,1,Pub_4-yr,0.24,0.27,0.902,PA
+0.318,0,30,83,Blue Ridge Community College - Virginia,4,Pub_2-yr,0.4,0.116,0.834,VA
+0,0.345,16,196,Millersville University of Pennsylvania,1,Pub_4-yr,0.213,0.273,0.831,PA
+0.635,0.002,7,61,Rockland Community College,4,Pub_2-yr,0.093,0.085,0.815,NY
+0,0.331,16,187,Cheyney University of Pennsylvania,1,Pub_4-yr,0.213,0.26,0.804,PA
+0,0.308,18,180,East Stroudsburg University of Pennsylvania,1,Pub_4-yr,0.24,0.251,0.799,PA
+0.281,0,30,81,Piedmont Virginia Community College,4,Pub_2-yr,0.4,0.113,0.794,VA
+0.221,0.001,23,185,Orange County Community College,4,Pub_2-yr,0.307,0.258,0.787,NY
+0.052,0.253,20,153,Reading Area Community College,4,Pub_2-yr,0.267,0.213,0.785,PA
+0.427,0,22,22,New Mexico State University-Main Campus,1,Pub_4-yr,0.293,0.031,0.751,NM
+0.283,0,19,153,Eastern Kentucky University,1,Pub_4-yr,0.253,0.213,0.749,KY
+0.194,0,34,69,Midlands Technical College,4,Pub_2-yr,0.453,0.096,0.743,SC
+0.502,0,13,33,Middlesex County College,4,Pub_2-yr,0.173,0.046,0.721,NJ
+0.087,0,29,174,Loyola University Chicago,2,Priv_4-yr_No-prof,0.387,0.242,0.716,IL
+0,0,8,433,University of Wyoming,1,Pub_4-yr,0.107,0.603,0.71,WY
+0.118,0,21,212,University of Detroit Mercy,2,Priv_4-yr_No-prof,0.28,0.295,0.693,MI
+0.502,0,6,76,Franklin University,2,Priv_4-yr_No-prof,0.08,0.106,0.688,OH
+0.031,0.002,11,355,Finger Lakes Community College,4,Pub_2-yr,0.147,0.494,0.674,NY
+0.216,0,25,83,Dutchess Community College,4,Pub_2-yr,0.333,0.116,0.665,NY
+0.564,0,6,6,Cochise College,4,Pub_2-yr,0.08,0.008,0.652,AZ
+0.309,0,23,25,Flagler College-St Augustine,2,Priv_4-yr_No-prof,0.307,0.035,0.651,FL
+0.539,0,6,21,Johnson & Wales University-Providence,2,Priv_4-yr_No-prof,0.08,0.029,0.648,RI
+0.045,0.213,16,123,Geneva College,2,Priv_4-yr_No-prof,0.213,0.171,0.642,PA
+0.37,0,16,39,Horry-Georgetown Technical College,4,Pub_2-yr,0.213,0.054,0.637,SC
+0.002,0.002,17,283,SUNY at Albany,1,Pub_4-yr,0.227,0.394,0.625,NY
+0.155,0,13,212,University of Nebraska-Lincoln,1,Pub_4-yr,0.173,0.295,0.623,NE
+0.01,0.001,10,338,State University of New York at New Paltz,1,Pub_4-yr,0.133,0.471,0.615,NY
+0.16,0,30,39,Clemson University,1,Pub_4-yr,0.4,0.054,0.614,SC
+0.269,0,23,23,ECPI University,3,Priv_4-yr-Profit,0.307,0.032,0.608,VA
+0.184,0,28,28,The University of Tampa,2,Priv_4-yr_No-prof,0.373,0.039,0.596,FL
+0.279,0,14,91,Suffolk County Community College,4,Pub_2-yr,0.187,0.127,0.593,NY
+0.113,0,16,191,Morehead State University,1,Pub_4-yr,0.213,0.266,0.592,KY
+0.022,0,32,103,J Sargeant Reynolds Community College,4,Pub_2-yr,0.427,0.143,0.592,VA
+0.543,0,3,3,Piedmont Community College,4,Pub_2-yr,0.04,0.004,0.587,NC
+0.071,0,20,161,Bergen Community College,4,Pub_2-yr,0.267,0.224,0.562,NJ
+0.223,0.046,17,32,University of Pittsburgh-Pittsburgh Campus,1,Pub_4-yr,0.227,0.045,0.541,PA
+0.4,0.002,6,35,Jefferson Davis Community College,4,Pub_2-yr,0.08,0.049,0.531,AL
+0.003,0.139,19,91,Lackawanna College,2,Priv_4-yr_No-prof,0.253,0.127,0.522,PA
+0.012,0,30,74,Paul D Camp Community College,4,Pub_2-yr,0.4,0.103,0.515,VA
+0.123,0.002,25,37,University of Akron Main Campus,1,Pub_4-yr,0.333,0.052,0.51,OH
+0.007,0,29,77,Rappahannock Community College,4,Pub_2-yr,0.387,0.107,0.501,VA
+0.011,0,29,68,Germanna Community College,4,Pub_2-yr,0.387,0.095,0.493,VA
+0.008,0,29,70,Lord Fairfax Community College,4,Pub_2-yr,0.387,0.097,0.492,VA
+0.151,0,18,69,West Kentucky Community and Technical College,4,Pub_2-yr,0.24,0.096,0.487,KY
+0.007,0,28,73,Thomas Nelson Community College,4,Pub_2-yr,0.373,0.102,0.482,VA
+0.007,0,28,72,Central Virginia Community College,4,Pub_2-yr,0.373,0.1,0.48,VA
+0.124,0,15,111,University of Colorado Boulder,1,Pub_4-yr,0.2,0.155,0.479,CO
+0.008,0,28,70,New River Community College,4,Pub_2-yr,0.373,0.097,0.478,VA
+0.008,0,28,70,Southside Virginia Community College,4,Pub_2-yr,0.373,0.097,0.478,VA
+0.008,0,28,70,Virginia Highlands Community College,4,Pub_2-yr,0.373,0.097,0.478,VA
+0.008,0,28,69,Dabney S Lancaster Community College,4,Pub_2-yr,0.373,0.096,0.477,VA
+0.007,0,28,70,Eastern Shore Community College,4,Pub_2-yr,0.373,0.097,0.477,VA
+0.008,0,28,69,Patrick & Henry Community College (formerly Patrick Henry Community College),4,Pub_2-yr,0.373,0.096,0.477,VA
+0.055,0,21,102,Piedmont Technical College,4,Pub_2-yr,0.28,0.142,0.477,SC
+0.008,0,28,69,Virginia Western Community College,4,Pub_2-yr,0.373,0.096,0.477,VA
+0.008,0,28,68,Southwest Virginia Community College,4,Pub_2-yr,0.373,0.095,0.476,VA
+0.006,0,19,155,Bluegrass Community and Technical College,4,Pub_2-yr,0.253,0.216,0.475,KY
+0.007,0,27,75,Tidewater Community College,4,Pub_2-yr,0.36,0.104,0.471,VA
+0.021,0,17,159,Murray State University,1,Pub_4-yr,0.227,0.221,0.469,KY
+0.007,0,27,70,John Tyler Community College,4,Pub_2-yr,0.36,0.097,0.464,VA
+0,0,23,112,University of Virginia-Main Campus,1,Pub_4-yr,0.307,0.156,0.463,VA
+0.099,0,20,67,CUNY Borough of Manhattan Community College,4,Pub_2-yr,0.267,0.093,0.459,NY
+0.051,0.001,10,196,Cornell University,2,Priv_4-yr_No-prof,0.133,0.273,0.458,NY
+0.004,0,26,69,Danville Community College,4,Pub_2-yr,0.347,0.096,0.447,VA
+0.187,0,17,21,Aiken Technical College,4,Pub_2-yr,0.227,0.029,0.443,SC
+0.064,0,19,90,Ashland Community and Technical College,4,Pub_2-yr,0.253,0.125,0.442,KY
+0.235,0,11,38,Anne Arundel Community College,4,Pub_2-yr,0.147,0.053,0.435,MD
+0.281,0,9,23,The Sage Colleges,2,Priv_4-yr_No-prof,0.12,0.032,0.433,NY
+0.035,0,19,103,Hazard Community and Technical College,4,Pub_2-yr,0.253,0.143,0.431,KY
+0.043,0,19,96,Jefferson Community and Technical College,4,Pub_2-yr,0.253,0.134,0.43,KY
+0.034,0,19,102,Gateway Community and Technical College,4,Pub_2-yr,0.253,0.142,0.429,KY
+0.05,0,19,86,Henderson Community College,4,Pub_2-yr,0.253,0.12,0.423,KY
+0.002,0,18,123,University of Kansas,1,Pub_4-yr,0.24,0.171,0.413,KS
+0.043,0,19,83,Big Sandy Community and Technical College,4,Pub_2-yr,0.253,0.116,0.412,KY
+0.38,0,2,2,Columbia College - Missouri,2,Priv_4-yr_No-prof,0.027,0.003,0.41,MO
+0.011,0,17,120,Hopkinsville Community College,4,Pub_2-yr,0.227,0.167,0.405,KY
+0.194,0,13,27,Central Carolina Technical College,4,Pub_2-yr,0.173,0.038,0.405,SC
+0.027,0,23,50,Virginia Commonwealth University,1,Pub_4-yr,0.307,0.07,0.404,VA
+0.226,0.014,11,12,DeSales University,2,Priv_4-yr_No-prof,0.147,0.017,0.404,PA
+0.15,0,16,28,Westfield State University,1,Pub_4-yr,0.213,0.039,0.402,MA
+0.011,0,19,97,Elizabethtown Community and Technical College,4,Pub_2-yr,0.253,0.135,0.399,KY
+0.013,0,19,94,Somerset Community College,4,Pub_2-yr,0.253,0.131,0.397,KY
+0.194,0,12,29,Colorado Northwestern Community College,4,Pub_2-yr,0.16,0.04,0.394,CO
+0.125,0.003,10,95,Monroe Community College,4,Pub_2-yr,0.133,0.132,0.393,NY
+0.158,0.001,9,82,Dominican College of Blauvelt,2,Priv_4-yr_No-prof,0.12,0.114,0.393,NY
+0.254,0,7,32,SUNY College at Cortland,1,Pub_4-yr,0.093,0.045,0.392,NY
+0.045,0,17,83,Maysville Community and Technical College,4,Pub_2-yr,0.227,0.116,0.388,KY
+0.01,0.001,10,172,Niagara County Community College,4,Pub_2-yr,0.133,0.24,0.384,NY
+0.014,0,19,83,Southcentral Kentucky Community and Technical College,4,Pub_2-yr,0.253,0.116,0.383,KY
+0.037,0,23,26,Christopher Newport University,1,Pub_4-yr,0.307,0.036,0.38,VA
+0.003,0,18,98,Owensboro Community and Technical College,4,Pub_2-yr,0.24,0.136,0.379,KY
+0.152,0,15,18,Framingham State University,1,Pub_4-yr,0.2,0.025,0.377,MA
+0.069,0,19,39,Monmouth University,2,Priv_4-yr_No-prof,0.253,0.054,0.376,NJ
+0.345,0,2,2,University of Cincinnati-Main Campus,1,Pub_4-yr,0.027,0.003,0.375,OH
+0.033,0,23,24,Virginia State University,1,Pub_4-yr,0.307,0.033,0.373,VA
+0.273,0.008,5,15,Miami Dade College,1,Pub_4-yr,0.067,0.021,0.369,FL
+0.005,0,18,84,Madisonville Community College,4,Pub_2-yr,0.24,0.117,0.362,KY
+0.184,0,12,13,Northeastern Technical College,4,Pub_2-yr,0.16,0.018,0.362,SC
+0.08,0,17,37,Coastal Carolina University,4,Pub_2-yr,0.227,0.052,0.359,SC
+0.008,0,23,31,Longwood University,1,Pub_4-yr,0.307,0.043,0.358,VA
+0.025,0,22,29,Norfolk State University,1,Pub_4-yr,0.293,0.04,0.358,VA
+0.011,0,23,26,University of Mary Washington,1,Pub_4-yr,0.307,0.036,0.354,VA
+0.013,0,23,24,Hollins University,2,Priv_4-yr_No-prof,0.307,0.033,0.353,VA
+0.013,0,23,24,Liberty University,2,Priv_4-yr_No-prof,0.307,0.033,0.353,VA
+0.06,0.003,15,64,Herkimer County Community College,4,Pub_2-yr,0.2,0.089,0.352,NY
+0.046,0,19,38,Caldwell University,2,Priv_4-yr_No-prof,0.253,0.053,0.352,NJ
+0.028,0,22,22,Virginia Union University,2,Priv_4-yr_No-prof,0.293,0.031,0.352,VA
+0.028,0,22,22,Virginia Wesleyan University,2,Priv_4-yr_No-prof,0.293,0.031,0.352,VA
+0.264,0,5,14,Clark State Community College,1,Pub_4-yr,0.067,0.019,0.35,OH
+0.022,0,22,24,Averett University,2,Priv_4-yr_No-prof,0.293,0.033,0.348,VA
+0.022,0,22,23,Mary Baldwin College,2,Priv_4-yr_No-prof,0.293,0.032,0.347,VA
+0.018,0,22,26,William and Mary,1,Pub_4-yr,0.293,0.036,0.347,VA
+0.082,0.002,12,73,Broome Community College,4,Pub_2-yr,0.16,0.102,0.346,NY
+0.003,0,23,26,Lynchburg College,2,Priv_4-yr_No-prof,0.307,0.036,0.346,VA
+0,0,22,36,Old Dominion University,1,Pub_4-yr,0.293,0.05,0.343,VA
+0.012,0,22,25,Ferrum College,2,Priv_4-yr_No-prof,0.293,0.035,0.34,VA
+0.295,0,3,3,Cuyahoga Community College District,4,Pub_2-yr,0.04,0.004,0.339,OH
+0.006,0,22,28,Radford University,1,Pub_4-yr,0.293,0.039,0.338,VA
+0.011,0,22,24,Emory & Henry College,2,Priv_4-yr_No-prof,0.293,0.033,0.337,VA
+0.011,0,22,23,The University of Virginia's College at Wise,1,Pub_4-yr,0.293,0.032,0.336,VA
+0.011,0,22,23,Virginia Polytechnic Institute and State University,1,Pub_4-yr,0.293,0.032,0.336,VA
+0,0,15,97,Northern Kentucky University,1,Pub_4-yr,0.2,0.135,0.335,KY
+0.024,0,19,41,Centenary University,2,Priv_4-yr_No-prof,0.253,0.057,0.334,NJ
+0.008,0,22,24,Regent University,2,Priv_4-yr_No-prof,0.293,0.033,0.334,VA
+0.024,0,19,40,Georgian Court University,2,Priv_4-yr_No-prof,0.253,0.056,0.333,NJ
+0.288,0.001,3,3,San Joaquin Delta College,4,Pub_2-yr,0.04,0.004,0.333,CA
+0.008,0,22,23,Sweet Briar College,2,Priv_4-yr_No-prof,0.293,0.032,0.333,VA
+0.019,0,19,40,Seton Hall University,2,Priv_4-yr_No-prof,0.253,0.056,0.328,NJ
+0.01,0.001,6,170,Keuka College,2,Priv_4-yr_No-prof,0.08,0.237,0.328,NY
+0.01,0.072,12,61,Temple University,1,Pub_4-yr,0.16,0.085,0.327,PA
+0.091,0,16,16,University of South Carolina-Salkehatchie,4,Pub_2-yr,0.213,0.022,0.326,SC
+0.091,0,16,16,University of South Carolina-Sumter,4,Pub_2-yr,0.213,0.022,0.326,SC
+0.091,0,16,16,University of South Carolina-Union,4,Pub_2-yr,0.213,0.022,0.326,SC
+0.259,0,4,8,Berkshire Community College,4,Pub_2-yr,0.053,0.011,0.323,MA
+0.086,0,16,17,University of South Carolina-Lancaster,4,Pub_2-yr,0.213,0.024,0.323,SC
+0.093,0,10,69,South Dakota State University,1,Pub_4-yr,0.133,0.096,0.322,SD
+0.01,0,19,40,Rider University,2,Priv_4-yr_No-prof,0.253,0.056,0.319,NJ
+0,0,15,85,Kentucky State University,1,Pub_4-yr,0.2,0.118,0.318,KY
+0,0,8,151,University of Florida,1,Pub_4-yr,0.107,0.21,0.317,FL
+0.051,0,13,59,Essex County College,4,Pub_2-yr,0.173,0.082,0.306,NJ
+0.231,0,5,5,Edison State Community College,4,Pub_2-yr,0.067,0.007,0.305,OH
+0.079,0,9,75,CUNY LaGuardia Community College,4,Pub_2-yr,0.12,0.104,0.303,NY
+0.01,0,17,43,Orangeburg Calhoun Technical College,4,Pub_2-yr,0.227,0.06,0.297,SC
+0.25,0,3,5,United States Sports Academy,2,Priv_4-yr_No-prof,0.04,0.007,0.297,AL
+0.002,0,17,47,Lander University,1,Pub_4-yr,0.227,0.065,0.294,SC
+0.225,0.001,4,10,Bellevue College,1,Pub_4-yr,0.053,0.014,0.293,WA
+0.059,0.002,9,80,Fulton-Montgomery Community College,4,Pub_2-yr,0.12,0.111,0.292,NY
+0.03,0,16,35,Trident Technical College,4,Pub_2-yr,0.213,0.049,0.292,SC
+0.042,0,11,72,University of Baltimore,1,Pub_4-yr,0.147,0.1,0.289,MD
+0.053,0,16,16,Pepperdine University’s Graziadio Business School,2,Priv_4-yr_No-prof,0.213,0.022,0.288,CA
+0.051,0,16,16,University of California-Los Angeles,1,Pub_4-yr,0.213,0.022,0.286,CA
+0.015,0.002,8,115,Hudson Valley Community College,4,Pub_2-yr,0.107,0.16,0.284,NY
+0.104,0,12,12,California Lutheran University,2,Priv_4-yr_No-prof,0.16,0.017,0.281,CA
+0.228,0,3,7,Danville Area Community College,4,Pub_2-yr,0.04,0.01,0.278,IL
+0.03,0,16,25,Florence-Darlington Technical College,4,Pub_2-yr,0.213,0.035,0.278,SC
+0.219,0,4,4,Illinois State University,1,Pub_4-yr,0.053,0.006,0.278,IL
+0,0,15,55,University of Louisville,1,Pub_4-yr,0.2,0.077,0.277,KY
+0.062,0,12,36,CUNY Bronx Community College,4,Pub_2-yr,0.16,0.05,0.272,NY
+0.069,0,8,68,SUNY College at Oneonta,1,Pub_4-yr,0.107,0.095,0.271,NY
+0.061,0,12,30,Arapahoe Community College,1,Pub_4-yr,0.16,0.042,0.263,CO
+0,0,15,45,Sullivan University,3,Priv_4-yr-Profit,0.2,0.063,0.263,KY
+0,0.002,8,109,Columbia-Greene Community College,4,Pub_2-yr,0.107,0.152,0.261,NY
+0,0.002,7,119,Corning Community College,4,Pub_2-yr,0.093,0.166,0.261,NY
+0,0,15,44,Spalding University,2,Priv_4-yr_No-prof,0.2,0.061,0.261,KY
+0.015,0,16,23,Francis Marion University,1,Pub_4-yr,0.213,0.032,0.26,SC
+0,0.002,6,125,Ulster County Community College,4,Pub_2-yr,0.08,0.174,0.256,NY
+0.076,0.011,9,31,Rowan College of South Jersey Gloucester Campus,4,Pub_2-yr,0.12,0.043,0.25,NJ
+0.198,0,3,8,Kankakee Community College,4,Pub_2-yr,0.04,0.011,0.249,IL
+0.153,0,4,31,Hillsborough Community College,4,Pub_2-yr,0.053,0.043,0.249,FL
+0,0.001,5,129,SUNY College at Brockport,1,Pub_4-yr,0.067,0.18,0.248,NY
+0.049,0.006,11,32,Brookdale Community College,4,Pub_2-yr,0.147,0.045,0.247,NJ
+0,0,15,32,Midway University,2,Priv_4-yr_No-prof,0.2,0.045,0.245,KY
+0.185,0,4,4,Case Western Reserve University,2,Priv_4-yr_No-prof,0.053,0.006,0.244,OH
+0.164,0,2,37,Johnson County Community College,4,Pub_2-yr,0.027,0.052,0.243,KS
+0.208,0,2,2,New Mexico State University-Dona Ana,4,Pub_2-yr,0.027,0.003,0.238,NM
+0.113,0,8,13,Utica College,2,Priv_4-yr_No-prof,0.107,0.018,0.238,NY
+0.195,0.001,2,8,Seattle Community College-South Campus,1,Pub_4-yr,0.027,0.011,0.234,WA
+0.031,0,10,50,Pace University-New York,2,Priv_4-yr_No-prof,0.133,0.07,0.234,NY
+0.001,0,15,22,Campbellsville University,2,Priv_4-yr_No-prof,0.2,0.031,0.232,KY
+0.001,0,15,22,Lindsey Wilson College,2,Priv_4-yr_No-prof,0.2,0.031,0.232,KY
+0.172,0,4,5,Diablo Valley College,4,Pub_2-yr,0.053,0.007,0.232,CA
+0.201,0,2,2,Palmer College of Chiropractic-Davenport,2,Priv_4-yr_No-prof,0.027,0.003,0.231,IA
+0,0.001,4,127,SUNY Empire State College,1,Pub_4-yr,0.053,0.177,0.231,NY
+0.022,0,14,14,University of Pikeville,2,Priv_4-yr_No-prof,0.187,0.019,0.228,KY
+0.073,0,9,23,Oregon State University,1,Pub_4-yr,0.12,0.032,0.225,OR
+0.002,0,15,15,Bellarmine University,2,Priv_4-yr_No-prof,0.2,0.021,0.223,KY
+0.052,0,9,35,Northern Essex Community College,4,Pub_2-yr,0.12,0.049,0.221,MA
+0,0,6,100,University of South Carolina-Columbia,1,Pub_4-yr,0.08,0.139,0.219,SC
+0.142,0,5,5,Alma College,2,Priv_4-yr_No-prof,0.067,0.007,0.216,MI
+0.047,0,9,35,Clarkson University,2,Priv_4-yr_No-prof,0.12,0.049,0.216,NY
+0.182,0,2,4,Trinity Valley Community College,1,Pub_4-yr,0.027,0.006,0.215,TX
+0.036,0,12,12,Western Connecticut State University,1,Pub_4-yr,0.16,0.017,0.213,CT
+0.011,0,13,21,Spartanburg Community College,4,Pub_2-yr,0.173,0.029,0.213,SC
+0.151,0,3,16,Jackson Community College,1,Pub_4-yr,0.04,0.022,0.213,MI
+0.003,0.011,11,37,Rowan College at Burlington County,4,Pub_2-yr,0.147,0.052,0.213,NJ
+0,0.004,8,72,Housatonic Community College,4,Pub_2-yr,0.107,0.1,0.211,CT
+0.033,0,5,79,Community College of Rhode Island,4,Pub_2-yr,0.067,0.11,0.21,RI
+0.032,0,12,13,University of Connecticut,1,Pub_4-yr,0.16,0.018,0.21,CT
+0.032,0,12,13,Central Connecticut State University,1,Pub_4-yr,0.16,0.018,0.21,CT
+0.052,0,6,55,University of Hawaii at Manoa,1,Pub_4-yr,0.08,0.077,0.209,HI
+0.002,0,14,14,Indiana Wesleyan University,2,Priv_4-yr_No-prof,0.187,0.019,0.208,IN
+0.038,0,10,26,Wytheville Community College,4,Pub_2-yr,0.133,0.036,0.207,VA
+0.011,0,11,35,York Technical College,4,Pub_2-yr,0.147,0.049,0.207,SC
+0.029,0,12,13,Southern Connecticut State University,1,Pub_4-yr,0.16,0.018,0.207,CT
+0,0.025,8,53,Camden County College,4,Pub_2-yr,0.107,0.074,0.206,NJ
+0.155,0,3,5,Argosy University-Washington D.C.,3,Priv_4-yr-Profit,0.04,0.007,0.202,DC
+0.158,0,3,3,Troy University,1,Pub_4-yr,0.04,0.004,0.202,AL
+0.114,0.002,5,13,Savannah College of Art and Design,2,Priv_4-yr_No-prof,0.067,0.018,0.201,GA
+0,0.002,5,94,North Country Community College,4,Pub_2-yr,0.067,0.131,0.2,NY
+0.017,0.013,9,32,Atlantic Cape Community College,4,Pub_2-yr,0.12,0.045,0.195,NJ
+0.103,0,6,7,Quinebaug Valley Community College,4,Pub_2-yr,0.08,0.01,0.193,CT
+0,0,12,24,Eastern Connecticut State University,1,Pub_4-yr,0.16,0.033,0.193,CT
+0.03,0,11,11,Ohio University-Main Campus,1,Pub_4-yr,0.147,0.015,0.192,OH
+0.052,0,8,22,Wayne State University,1,Pub_4-yr,0.107,0.031,0.19,MI
+0.109,0,3,28,Rhode Island College,1,Pub_4-yr,0.04,0.039,0.188,RI
+0,0,11,29,Aims Community College,4,Pub_2-yr,0.147,0.04,0.187,CO
+0,0,11,29,Colorado Mountain College,1,Pub_4-yr,0.147,0.04,0.187,CO
+0.123,0.002,4,5,Belmont College (formerly Belmont Technical College),4,Pub_2-yr,0.053,0.007,0.185,OH
+0,0,12,17,Nueta Hidatsa Sahnish College,1,Pub_4-yr,0.16,0.024,0.184,ND
+0.03,0,7,44,SUNY at Fredonia,1,Pub_4-yr,0.093,0.061,0.184,NY
+0,0,12,16,Bismarck State College,1,Pub_4-yr,0.16,0.022,0.182,ND
+0,0,12,16,Dickinson State University,1,Pub_4-yr,0.16,0.022,0.182,ND
+0,0,12,16,Sitting Bull College,1,Pub_4-yr,0.16,0.022,0.182,ND
+0.152,0,2,2,University of Maryland-Global Campus,1,Pub_4-yr,0.027,0.003,0.182,MD
+0,0.012,4,82,SUNY Westchester Community College,4,Pub_2-yr,0.053,0.114,0.179,NY
+0.062,0,7,17,Baylor University,2,Priv_4-yr_No-prof,0.093,0.024,0.179,TX
+0,0,7,61,Plymouth State University,1,Pub_4-yr,0.093,0.085,0.178,NH
+0.018,0.044,5,32,Widener University-Main Campus,2,Priv_4-yr_No-prof,0.067,0.045,0.174,PA
+0,0.002,6,64,Schenectady County Community College,4,Pub_2-yr,0.08,0.089,0.171,NY
+0,0,11,17,Williston State College,4,Pub_2-yr,0.147,0.024,0.171,ND
+0,0,11,17,Turtle Mountain Community College,2,Priv_4-yr_No-prof,0.147,0.024,0.171,ND
+0.02,0.002,6,49,Sullivan County Community College,4,Pub_2-yr,0.08,0.068,0.17,NY
+0,0,11,16,Dakota College at Bottineau,4,Pub_2-yr,0.147,0.022,0.169,ND
+0,0,11,16,Lake Region State College,4,Pub_2-yr,0.147,0.022,0.169,ND
+0,0,11,16,North Dakota State College of Science,4,Pub_2-yr,0.147,0.022,0.169,ND
+0.027,0,9,16,Raritan Valley Community College,4,Pub_2-yr,0.12,0.022,0.169,NJ
+0.077,0,6,7,Middlesex Community College - Connecticut,4,Pub_2-yr,0.08,0.01,0.167,CT
+0.136,0.001,2,2,Solano Community College,1,Pub_4-yr,0.027,0.003,0.167,CA
+0.117,0,3,4,Los Angeles Mission College,4,Pub_2-yr,0.04,0.006,0.163,CA
+0.017,0,9,18,James Madison University,1,Pub_4-yr,0.12,0.025,0.162,VA
+0.041,0.001,7,17,Santa Monica College,1,Pub_4-yr,0.093,0.024,0.159,CA
+0.103,0,2,19,Southeast Technical Institute,4,Pub_2-yr,0.027,0.026,0.156,SD
+0.105,0,3,8,Bridgewater College,2,Priv_4-yr_No-prof,0.04,0.011,0.156,VA
+0.113,0,2,9,Clark College,1,Pub_4-yr,0.027,0.013,0.153,WA
+0.025,0,8,15,Warren County Community College,4,Pub_2-yr,0.107,0.021,0.153,NJ
+0.01,0,7,36,Daemen College,2,Priv_4-yr_No-prof,0.093,0.05,0.153,NY
+0.01,0,9,14,Greenville Technical College,1,Pub_4-yr,0.12,0.019,0.149,SC
+0.103,0,3,4,Warner Pacific College,2,Priv_4-yr_No-prof,0.04,0.006,0.149,OR
+0.116,0.002,2,2,Bellevue University,2,Priv_4-yr_No-prof,0.027,0.003,0.148,NE
+0.01,0,4,60,Elmira College,2,Priv_4-yr_No-prof,0.053,0.084,0.147,NY
+0.03,0,7,17,CUNY Queensborough Community College,4,Pub_2-yr,0.093,0.024,0.147,NY
+0,0.06,3,32,Montgomery County Community College-West Campus,4,Pub_2-yr,0.04,0.045,0.145,PA
+0.073,0,4,12,Catholic University of America,2,Priv_4-yr_No-prof,0.053,0.017,0.143,DC
+0.032,0.007,5,26,Montgomery College,4,Pub_2-yr,0.067,0.036,0.142,MD
+0.042,0.003,6,11,Chatham University,2,Priv_4-yr_No-prof,0.08,0.015,0.14,PA
+0.002,0.001,8,21,Mercer County Community College,4,Pub_2-yr,0.107,0.029,0.139,NJ
+0,0.008,4,56,Nassau Community College,4,Pub_2-yr,0.053,0.078,0.139,NY
+0.047,0,5,18,Paul Smiths College of Arts and Science,2,Priv_4-yr_No-prof,0.067,0.025,0.139,NY
+0,0,2,80,Laramie County Community College,1,Pub_4-yr,0.027,0.111,0.138,WY
+0,0,9,13,Technical College of the Lowcountry,4,Pub_2-yr,0.12,0.018,0.138,SC
+0.002,0,8,19,Sage College of Albany,2,Priv_4-yr_No-prof,0.107,0.026,0.135,NY
+0,0.002,5,46,Genesee Community College,4,Pub_2-yr,0.067,0.064,0.133,NY
+0,0,9,9,Indiana University-Bloomington,1,Pub_4-yr,0.12,0.013,0.133,IN
+0.098,0,2,2,Butte College,4,Pub_2-yr,0.027,0.003,0.128,CA
+0.01,0,7,18,Gateway Community College - Connecticut,4,Pub_2-yr,0.093,0.025,0.128,CT
+0.021,0,5,29,Middlesex Community College - Massachusetts,4,Pub_2-yr,0.067,0.04,0.128,MA
+0.042,0,5,14,Life University,2,Priv_4-yr_No-prof,0.067,0.019,0.128,GA
+0.046,0,5,9,CUNY John Jay College of Criminal Justice,1,Pub_4-yr,0.067,0.013,0.126,NY
+0.009,0.002,5,34,SUNY College of Technology at Canton,1,Pub_4-yr,0.067,0.047,0.125,NY
+0.005,0,8,8,Williamsburg Technical College,4,Pub_2-yr,0.107,0.011,0.123,SC
+0.046,0,4,17,Berkeley College-Woodland Park,3,Priv_4-yr-Profit,0.053,0.024,0.123,NJ
+0.01,0,7,14,Passaic County Community College,4,Pub_2-yr,0.093,0.019,0.122,NJ
+0.05,0,3,23,SUNY College at Potsdam,1,Pub_4-yr,0.04,0.032,0.122,NY
+0,0,8,10,Tri-County Technical College,4,Pub_2-yr,0.107,0.014,0.121,SC
+0.031,0,4,26,Southeast Community College Area,4,Pub_2-yr,0.053,0.036,0.12,NE
+0.01,0,5,30,Bryant University,2,Priv_4-yr_No-prof,0.067,0.042,0.119,RI
+0.008,0.001,5,30,Holyoke Community College,4,Pub_2-yr,0.067,0.042,0.118,MA
+0,0,8,8,Denmark Technical College,4,Pub_2-yr,0.107,0.011,0.118,SC
+0.006,0,7,13,County College of Morris,4,Pub_2-yr,0.093,0.018,0.117,NJ
+0.01,0,7,10,Richard Bland College of the College of William and Mary,4,Pub_2-yr,0.093,0.014,0.117,VA
+0.055,0,4,6,Houghton College,2,Priv_4-yr_No-prof,0.053,0.008,0.116,NY
+0.083,0,2,2,Clackamas Community College,4,Pub_2-yr,0.027,0.003,0.113,OR
+0.002,0,7,13,Ocean County College,4,Pub_2-yr,0.093,0.018,0.113,NJ
+0.059,0,3,9,Alpena Community College,1,Pub_4-yr,0.04,0.013,0.112,MI
+0,0.002,4,40,Syracuse University,2,Priv_4-yr_No-prof,0.053,0.056,0.111,NY
+0.003,0.001,5,27,SUNY Morrisville (formerly Morrisville State College),1,Pub_4-yr,0.067,0.038,0.109,NY
+0,0,1,69,Casper College,4,Pub_2-yr,0.013,0.096,0.109,WY
+0.046,0,4,7,University of Maryland-Baltimore County,1,Pub_4-yr,0.053,0.01,0.109,MD
+0,0.002,4,38,Mohawk Valley Community College,4,Pub_2-yr,0.053,0.053,0.108,NY
+0.074,0,2,5,Lourdes University,2,Priv_4-yr_No-prof,0.027,0.007,0.108,OH
+0,0,4,39,Florida Keys Community College,1,Pub_4-yr,0.053,0.054,0.107,FL
+0.027,0,5,9,Coker College,2,Priv_4-yr_No-prof,0.067,0.013,0.107,SC
+0.057,0.001,3,6,Pennsylvania State University-Main Campus,1,Pub_4-yr,0.04,0.008,0.106,PA
+0,0,4,38,SUNY College at Plattsburgh,1,Pub_4-yr,0.053,0.053,0.106,NY
+0,0,1,66,Northwest College,1,Pub_4-yr,0.013,0.092,0.105,WY
+0.062,0,2,10,Kapiolani Community College,4,Pub_2-yr,0.027,0.014,0.103,HI
+0,0,7,7,Alice Lloyd College,2,Priv_4-yr_No-prof,0.093,0.01,0.103,KY
+0,0,7,7,Keene State College,1,Pub_4-yr,0.093,0.01,0.103,NH
+0.001,0.008,4,29,Broward College,1,Pub_4-yr,0.053,0.04,0.102,FL
+0.055,0,3,5,Santa Fe College,1,Pub_4-yr,0.04,0.007,0.102,FL
+0.014,0,5,15,Adelphi University,2,Priv_4-yr_No-prof,0.067,0.021,0.102,NY
+0.072,0,2,2,Collin County Community College District,1,Pub_4-yr,0.027,0.003,0.102,TX
+0.026,0.005,4,13,Palm Beach State College,1,Pub_4-yr,0.053,0.018,0.102,FL
+0,0.055,1,24,Harrisburg Area Community College-Gettysburg,4,Pub_2-yr,0.013,0.033,0.101,PA
+0,0.055,1,24,Harrisburg Area Community College-Lancaster,4,Pub_2-yr,0.013,0.033,0.101,PA
+0,0.055,1,24,Harrisburg Area Community College-Lebanon,4,Pub_2-yr,0.013,0.033,0.101,PA
+0,0.055,1,24,Harrisburg Area Community College-York,4,Pub_2-yr,0.013,0.033,0.101,PA
+0,0,6,15,Fairfield University,2,Priv_4-yr_No-prof,0.08,0.021,0.101,CT
+0.01,0,6,8,Manchester Community College - Connecticut,4,Pub_2-yr,0.08,0.011,0.101,CT
+0.005,0,4,31,Buffalo State SUNY,1,Pub_4-yr,0.053,0.043,0.101,NY
+0.027,0,3,23,New York University,2,Priv_4-yr_No-prof,0.04,0.032,0.099,NY
+0.036,0,4,7,Southern Maine Community College,4,Pub_2-yr,0.053,0.01,0.099,ME
+0,0,6,13,The Citadel,1,Pub_4-yr,0.08,0.018,0.098,SC
+0,0,4,32,Western New England University,2,Priv_4-yr_No-prof,0.053,0.045,0.098,MA
+0.011,0,5,14,Baltimore City Community College,4,Pub_2-yr,0.067,0.019,0.097,MD
+0.011,0,5,14,Coastline Community College,4,Pub_2-yr,0.067,0.019,0.097,CA
+0.011,0,4,24,Essex County Community College (now Community College of Baltimore County),4,Pub_2-yr,0.053,0.033,0.097,MD
+0,0,6,12,Hudson County Community College,4,Pub_2-yr,0.08,0.017,0.097,NJ
+0,0,6,12,Rowan College South Jersey Cumberland Campus,4,Pub_2-yr,0.08,0.017,0.097,NJ
+0,0,6,12,Salem Community College,4,Pub_2-yr,0.08,0.017,0.097,NJ
+0.01,0,2,43,Southern West Virginia Community and Technical College,4,Pub_2-yr,0.027,0.06,0.097,WV
+0,0,6,12,Sussex County Community College,4,Pub_2-yr,0.08,0.017,0.097,NJ
+0,0,6,12,Union County College,4,Pub_2-yr,0.08,0.017,0.097,NJ
+0,0,3,40,Hartwick College,2,Priv_4-yr_No-prof,0.04,0.056,0.096,NY
+0.01,0,3,33,Utah Tech University (formerly Dixie State University),1,Pub_4-yr,0.04,0.046,0.096,UT
+0,0,6,11,Naugatuck Valley Community College,4,Pub_2-yr,0.08,0.015,0.095,CT
+0.021,0.001,3,24,College of Southern Nevada,1,Pub_4-yr,0.04,0.033,0.095,NV
+0,0,2,49,Florida State College at Jacksonville,1,Pub_4-yr,0.027,0.068,0.095,FL
+0.031,0,4,8,University of Wisconsin-Madison,1,Pub_4-yr,0.053,0.011,0.095,WI
+0,0,1,58,SUNY College at Geneseo,1,Pub_4-yr,0.013,0.081,0.094,NY
+0.022,0,3,22,Grand Rapids Community College,4,Pub_2-yr,0.04,0.031,0.093,MI
+0.034,0,4,4,Grand Canyon University,3,Priv_4-yr-Profit,0.053,0.006,0.093,AZ
+0.01,0.005,4,17,Seattle Community College-Central Campus,1,Pub_4-yr,0.053,0.024,0.092,WA
+0,0,1,56,Eastern Wyoming College,4,Pub_2-yr,0.013,0.078,0.091,WY
+0,0.002,3,35,Erie Community College,4,Pub_2-yr,0.04,0.049,0.091,NY
+0,0,6,8,Norwalk Community College,4,Pub_2-yr,0.08,0.011,0.091,CT
+0,0,6,8,Three Rivers Community College - Connecticut,4,Pub_2-yr,0.08,0.011,0.091,CT
+0,0.002,3,35,SUNY College of Technology at Alfred,1,Pub_4-yr,0.04,0.049,0.091,NY
+0,0,1,56,Western Wyoming Community College,1,Pub_4-yr,0.013,0.078,0.091,WY
+0,0,1,55,Northern Wyoming Community College District,4,Pub_2-yr,0.013,0.077,0.09,WY
+0,0,4,26,Southern Vermont College,2,Priv_4-yr_No-prof,0.053,0.036,0.089,VT
+0.041,0.001,2,14,Madison Area Technical College,1,Pub_4-yr,0.027,0.019,0.088,WI
+0.013,0,4,16,McHenry County College,4,Pub_2-yr,0.053,0.022,0.088,IL
+0.002,0,5,13,Claflin University,2,Priv_4-yr_No-prof,0.067,0.018,0.087,SC
+0.002,0,5,13,Columbia College - South Carolina,2,Priv_4-yr_No-prof,0.067,0.018,0.087,SC
+0,0.002,3,32,Tompkins Cortland Community College,4,Pub_2-yr,0.04,0.045,0.087,NY
+0.02,0.007,4,4,Point Park University,2,Priv_4-yr_No-prof,0.053,0.006,0.086,PA
+0,0,4,23,New Jersey Institute of Technology,1,Pub_4-yr,0.053,0.032,0.085,NJ
+0.054,0,2,2,City College of San Francisco,4,Pub_2-yr,0.027,0.003,0.084,CA
+0,0,1,51,Central Wyoming College,1,Pub_4-yr,0.013,0.071,0.084,WY
+0,0,1,50,Roger Williams University,2,Priv_4-yr_No-prof,0.013,0.07,0.083,RI
+0.031,0,2,18,St Charles Community College,4,Pub_2-yr,0.027,0.025,0.083,MO
+0,0.038,1,23,West Liberty University,1,Pub_4-yr,0.013,0.032,0.083,WV
+0.052,0,2,2,Catawba Valley Community College,4,Pub_2-yr,0.027,0.003,0.082,NC
+0.052,0,2,2,University of North Georgia,1,Pub_4-yr,0.027,0.003,0.082,GA
+0.005,0.02,3,12,Arcadia University,2,Priv_4-yr_No-prof,0.04,0.017,0.082,PA
+0,0,5,11,South Carolina State University,1,Pub_4-yr,0.067,0.015,0.082,SC
+0.033,0,3,6,Polytechnic Institute of New York University,2,Priv_4-yr_No-prof,0.04,0.008,0.081,NY
+0.037,0,3,3,Cape Cod Community College,4,Pub_2-yr,0.04,0.004,0.081,MA
+0.047,0,2,4,Prince George's Community College,4,Pub_2-yr,0.027,0.006,0.08,MD
+0,0,5,9,University of South Carolina-Upstate,1,Pub_4-yr,0.067,0.013,0.08,SC
+0,0.017,2,25,Cecil College,4,Pub_2-yr,0.027,0.035,0.079,MD
+0,0,3,28,University of Massachusetts-Lowell,1,Pub_4-yr,0.04,0.039,0.079,MA
+0.003,0,3,26,Canisius College,2,Priv_4-yr_No-prof,0.04,0.036,0.079,NY
+0.003,0,5,5,Los Angeles Pierce College,4,Pub_2-yr,0.067,0.007,0.077,CA
+0.003,0,5,5,Moorpark College,4,Pub_2-yr,0.067,0.007,0.077,CA
+0,0,5,7,Asnuntuck Community College,4,Pub_2-yr,0.067,0.01,0.077,CT
+0,0,5,7,Capital Community College,4,Pub_2-yr,0.067,0.01,0.077,CT
+0,0,2,36,College of DuPage,4,Pub_2-yr,0.027,0.05,0.077,IL
+0.001,0.012,4,8,Immaculata University,2,Priv_4-yr_No-prof,0.053,0.011,0.077,PA
+0,0,2,35,Niagara University,2,Priv_4-yr_No-prof,0.027,0.049,0.076,NY
+0.021,0,3,11,Towson University,1,Pub_4-yr,0.04,0.015,0.076,MD
+0,0,1,45,Saint John Fisher College,2,Priv_4-yr_No-prof,0.013,0.063,0.076,NY
+0.021,0,3,11,Lindenwood University,2,Priv_4-yr_No-prof,0.04,0.015,0.076,MO
+0.01,0,3,18,College of Lake County,4,Pub_2-yr,0.04,0.025,0.075,IL
+0,0,5,6,Northwestern Connecticut Community College,4,Pub_2-yr,0.067,0.008,0.075,CT
+0,0,5,6,Tunxis Community College,4,Pub_2-yr,0.067,0.008,0.075,CT
+0.002,0.011,3,16,Lincoln College,2,Priv_4-yr_No-prof,0.04,0.022,0.075,IL
+0,0,5,5,Ball State University,1,Pub_4-yr,0.067,0.007,0.074,IN
+0.019,0,3,11,Monroe County Community College,4,Pub_2-yr,0.04,0.015,0.074,MI
+0.01,0,4,8,CUNY York College,1,Pub_4-yr,0.053,0.011,0.074,NY
+0,0,3,24,City Colleges of Chicago-Richard J Daley College,4,Pub_2-yr,0.04,0.033,0.073,IL
+0.013,0,4,5,Hocking College,4,Pub_2-yr,0.053,0.007,0.073,OH
+0.001,0.01,3,16,St Petersburg College,1,Pub_4-yr,0.04,0.022,0.073,FL
+0.042,0,2,3,Fairleigh Dickinson University-College at Florham,2,Priv_4-yr_No-prof,0.027,0.004,0.073,NJ
+0,0,2,33,University at Buffalo,1,Pub_4-yr,0.027,0.046,0.073,NY
+0.01,0,3,16,Community College of Vermont,4,Pub_2-yr,0.04,0.022,0.072,VT
+0,0,4,14,Massasoit Community College,4,Pub_2-yr,0.053,0.019,0.072,MA
+0,0,2,32,University of Arizona,1,Pub_4-yr,0.027,0.045,0.072,AZ
+0.04,0,2,3,Community College of Allegheny County - Allegheny,4,Pub_2-yr,0.027,0.004,0.071,PA
+0,0,1,42,Fairmont State University,1,Pub_4-yr,0.013,0.058,0.071,WV
+0.008,0,4,7,Berkeley College-New York,3,Priv_4-yr-Profit,0.053,0.01,0.071,NY
+0,0,4,12,Wright State University-Main Campus,1,Pub_4-yr,0.053,0.017,0.07,OH
+0.04,0,2,2,University of Massachusetts-Boston,1,Pub_4-yr,0.027,0.003,0.07,MA
+0,0,1,41,University of Rhode Island,1,Pub_4-yr,0.013,0.057,0.07,RI
+0,0,2,30,Oakton Community College,4,Pub_2-yr,0.027,0.042,0.069,IL
+0,0,3,21,Santa Rosa Junior College,4,Pub_2-yr,0.04,0.029,0.069,CA
+0,0,2,30,Florida SouthWestern State College (formally Edison State College),1,Pub_4-yr,0.027,0.042,0.069,FL
+0.008,0,4,6,Lorain County Community College,1,Pub_4-yr,0.053,0.008,0.069,OH
+0.001,0,4,10,Los Angeles Valley College,4,Pub_2-yr,0.053,0.014,0.068,CA
+0,0,2,29,Macomb Community College,4,Pub_2-yr,0.027,0.04,0.067,MI
+0,0.001,2,28,Salt Lake Community College,4,Pub_2-yr,0.027,0.039,0.067,UT
+0,0,4,9,Long Beach City College,4,Pub_2-yr,0.053,0.013,0.066,CA
+0.002,0,4,8,Adams State University,1,Pub_4-yr,0.053,0.011,0.066,CO
+0.002,0,4,8,Colorado State University-Fort Collins,1,Pub_4-yr,0.053,0.011,0.066,CO
+0.002,0,4,8,Colorado State University-Pueblo,1,Pub_4-yr,0.053,0.011,0.066,CO
+0.002,0,4,8,Fort Lewis College,1,Pub_4-yr,0.053,0.011,0.066,CO
+0.002,0,4,8,Colorado Mesa University,1,Pub_4-yr,0.053,0.011,0.066,CO
+0.002,0,4,8,Metropolitan State University of Denver,1,Pub_4-yr,0.053,0.011,0.066,CO
+0.002,0,4,8,University of Colorado Colorado Springs,1,Pub_4-yr,0.053,0.011,0.066,CO
+0.002,0,4,8,University of Colorado Denver,1,Pub_4-yr,0.053,0.011,0.066,CO
+0.002,0,4,8,University of Northern Colorado,1,Pub_4-yr,0.053,0.011,0.066,CO
+0.002,0,4,8,Western Colorado University,1,Pub_4-yr,0.053,0.011,0.066,CO
+0.018,0.004,3,3,Albright College,2,Priv_4-yr_No-prof,0.04,0.004,0.066,PA
+0.001,0,3,17,Chipola College,1,Pub_4-yr,0.04,0.024,0.065,FL
+0.001,0,3,17,Daytona State College,1,Pub_4-yr,0.04,0.024,0.065,FL
+0.001,0,4,8,North Central State College,1,Pub_4-yr,0.053,0.011,0.065,OH
+0,0,3,17,Suny Polytechnic Institute,1,Pub_4-yr,0.04,0.024,0.064,NY
+0.001,0,3,16,Eastern Florida State College (formerly Brevard Community College),1,Pub_4-yr,0.04,0.022,0.063,FL
+0.012,0,3,8,Indian River State College,1,Pub_4-yr,0.04,0.011,0.063,FL
+0,0,2,26,CUNY Lehman College,1,Pub_4-yr,0.027,0.036,0.063,NY
+0,0,2,26,Ashford University,3,Priv_4-yr-Profit,0.027,0.036,0.063,CA
+0.011,0,3,8,Roxbury Community College,4,Pub_2-yr,0.04,0.011,0.062,MA
+0.003,0,4,4,Charleston Southern University,2,Priv_4-yr_No-prof,0.053,0.006,0.062,SC
+0,0.002,2,23,CUNY Kingsborough Community College,4,Pub_2-yr,0.027,0.032,0.061,NY
+0.001,0,4,5,Newberry College,2,Priv_4-yr_No-prof,0.053,0.007,0.061,SC
+0,0,3,15,Saint Leo University,2,Priv_4-yr_No-prof,0.04,0.021,0.061,FL
+0.008,0,2,18,Central Arizona College,4,Pub_2-yr,0.027,0.025,0.06,AZ
+0,0.003,3,12,Cosumnes River College,4,Pub_2-yr,0.04,0.017,0.06,CA
+0,0,2,24,Moraine Valley Community College,4,Pub_2-yr,0.027,0.033,0.06,IL
+0.001,0,4,4,Pasadena City College,4,Pub_2-yr,0.053,0.006,0.06,CA
+0.001,0,4,4,Saddleback College,4,Pub_2-yr,0.053,0.006,0.06,CA
+0.03,0,2,2,Metropolitan College of New York,2,Priv_4-yr_No-prof,0.027,0.003,0.06,NY
+0,0,2,24,New York Institute of Technology-Manhattan Campus,2,Priv_4-yr_No-prof,0.027,0.033,0.06,NY
+0,0,2,23,Harper College,4,Pub_2-yr,0.027,0.032,0.059,IL
+0,0,2,23,Lansing Community College,4,Pub_2-yr,0.027,0.032,0.059,MI
+0,0,1,33,"Metropolitan Community College-Kansas City - 3200 Broadway, Kansas City, Missouri",4,Pub_2-yr,0.013,0.046,0.059,MO
+0.021,0,2,7,State College of Florida-Manatee-Sarasota,1,Pub_4-yr,0.027,0.01,0.058,FL
+0.021,0,2,7,Castleton State College,1,Pub_4-yr,0.027,0.01,0.058,VT
+0,0,2,22,Joliet Junior College,4,Pub_2-yr,0.027,0.031,0.058,IL
+0,0.006,2,17,Shoreline Community College,4,Pub_2-yr,0.027,0.024,0.057,WA
+0,0,3,12,Springfield Technical Community College,4,Pub_2-yr,0.04,0.017,0.057,MA
+0,0.006,2,17,North Seattle College (formerly Seattle Community College-North Campus),1,Pub_4-yr,0.027,0.024,0.057,WA
+0,0,2,21,North Metro Technical College,4,Pub_2-yr,0.027,0.029,0.056,GA
+0,0.001,3,11,Riverside City College,4,Pub_2-yr,0.04,0.015,0.056,CA
+0.011,0,3,3,Fullerton College,4,Pub_2-yr,0.04,0.004,0.055,CA
+0,0,2,20,City Colleges of Chicago-Harold Washington College,4,Pub_2-yr,0.027,0.028,0.055,IL
+0,0,2,20,Mott Community College,4,Pub_2-yr,0.027,0.028,0.055,MI
+0,0,2,20,Kean University,1,Pub_4-yr,0.027,0.028,0.055,NJ
+0.01,0,2,13,San Diego City College,4,Pub_2-yr,0.027,0.018,0.055,CA
+0.01,0,3,3,Capital Area School of Practical Nursing,7,Pub_Less_2-yr,0.04,0.004,0.054,IL
+0.002,0,2,18,Arizona Western College,4,Pub_2-yr,0.027,0.025,0.054,AZ
+0,0,3,10,Greenfield Community College,4,Pub_2-yr,0.04,0.014,0.054,MA
+0.022,0,2,3,Glen Oaks Community College,4,Pub_2-yr,0.027,0.004,0.053,MI
+0.009,0,3,3,Pennsylvania State University-Penn State Lehigh Valley,1,Pub_4-yr,0.04,0.004,0.053,PA
+0,0,3,9,Canada College,4,Pub_2-yr,0.04,0.013,0.053,CA
+0,0,2,19,Illinois Central College,4,Pub_2-yr,0.027,0.026,0.053,IL
+0,0,2,19,Morton College,4,Pub_2-yr,0.027,0.026,0.053,IL
+0,0,3,9,Bakersfield College,1,Pub_4-yr,0.04,0.013,0.053,CA
+0,0,2,19,University of Bridgeport,2,Priv_4-yr_No-prof,0.027,0.026,0.053,CT
+0,0,3,9,Limestone University,2,Priv_4-yr_No-prof,0.04,0.013,0.053,SC
+0,0,2,18,Massachusetts College of Liberal Arts,1,Pub_4-yr,0.027,0.025,0.052,MA
+0.01,0,2,11,Spokane Falls Community College,1,Pub_4-yr,0.027,0.015,0.052,WA
+0,0,3,8,Northwest State Community College,4,Pub_2-yr,0.04,0.011,0.051,OH
+0,0.003,3,6,Sierra College,4,Pub_2-yr,0.04,0.008,0.051,CA
+0,0,3,8,Rio Hondo College,1,Pub_4-yr,0.04,0.011,0.051,CA
+0,0,3,7,Cabrillo College,4,Pub_2-yr,0.04,0.01,0.05,CA
+0.003,0,3,5,Maria College of Albany,2,Priv_4-yr_No-prof,0.04,0.007,0.05,NY
+0,0,3,7,Upstate Medical University,1,Pub_4-yr,0.04,0.01,0.05,NY
+0,0,3,7,Morris College,2,Priv_4-yr_No-prof,0.04,0.01,0.05,SC
+0,0,2,16,City Colleges of Chicago-Kennedy-King College,4,Pub_2-yr,0.027,0.022,0.049,IL
+0,0,2,16,City Colleges of Chicago-Malcolm X College,4,Pub_2-yr,0.027,0.022,0.049,IL
+0,0,2,16,City Colleges of Chicago-Wilbur Wright College,4,Pub_2-yr,0.027,0.022,0.049,IL
+0,0,2,16,Everett Community College,4,Pub_2-yr,0.027,0.022,0.049,WA
+0,0,2,16,Metropolitan Community College-Blue River,4,Pub_2-yr,0.027,0.022,0.049,MO
+0.004,0,3,3,Cerritos College,4,Pub_2-yr,0.04,0.004,0.048,CA
+0,0,2,15,City Colleges of Chicago-Harry S Truman College,4,Pub_2-yr,0.027,0.021,0.048,IL
+0.004,0,3,3,El Camino College-Compton Center,4,Pub_2-yr,0.04,0.004,0.048,CA
+0.01,0,2,8,Pueblo Community College,1,Pub_4-yr,0.027,0.011,0.048,CO
+0,0,2,15,Mercy College,2,Priv_4-yr_No-prof,0.027,0.021,0.048,NY
+0,0,1,25,University of Massachusetts-Dartmouth,1,Pub_4-yr,0.013,0.035,0.048,MA
+0,0,3,6,CUNY Bernard M Baruch College,1,Pub_4-yr,0.04,0.008,0.048,NY
+0.014,0,2,5,Nyack College,2,Priv_4-yr_No-prof,0.027,0.007,0.048,NY
+0,0,3,6,University of South Carolina-Beaufort,1,Pub_4-yr,0.04,0.008,0.048,SC
+0,0.014,1,15,University of Pittsburgh-Johnstown,1,Pub_4-yr,0.013,0.021,0.048,PA
+0,0.001,3,4,American River College,4,Pub_2-yr,0.04,0.006,0.047,CA
+0.003,0,3,3,College of the Canyons,4,Pub_2-yr,0.04,0.004,0.047,CA
+0,0.001,2,14,Mission College,4,Pub_2-yr,0.027,0.019,0.047,CA
+0.001,0,3,4,Owens Community College,4,Pub_2-yr,0.04,0.006,0.047,OH
+0.001,0,3,4,Converse College,2,Priv_4-yr_No-prof,0.04,0.006,0.047,SC
+0,0,3,5,University of South Carolina-Aiken,1,Pub_4-yr,0.04,0.007,0.047,SC
+0.01,0,2,7,New College of Florida,1,Pub_4-yr,0.027,0.01,0.047,FL
+0.001,0,3,4,College of Charleston,1,Pub_4-yr,0.04,0.006,0.047,SC
+0,0.019,1,11,Gwynedd Mercy University,2,Priv_4-yr_No-prof,0.013,0.015,0.047,PA
+0,0,2,14,Butler Community College,4,Pub_2-yr,0.027,0.019,0.046,KS
+0.002,0,2,12,City Colleges of Chicago-Olive-Harvey College,4,Pub_2-yr,0.027,0.017,0.046,IL
+0.002,0,3,3,Cuesta College,4,Pub_2-yr,0.04,0.004,0.046,CA
+0,0,3,4,Lakeland Community College,4,Pub_2-yr,0.04,0.006,0.046,OH
+0.008,0,2,8,Metropolitan Community College,4,Pub_2-yr,0.027,0.011,0.046,MO
+0,0,2,14,Parkland College,4,Pub_2-yr,0.027,0.019,0.046,IL
+0.002,0,3,3,Santa Barbara City College,4,Pub_2-yr,0.04,0.004,0.046,CA
+0.002,0,3,3,Anderson University - South Carolina,2,Priv_4-yr_No-prof,0.04,0.004,0.046,SC
+0.002,0,3,3,Erskine College,2,Priv_4-yr_No-prof,0.04,0.004,0.046,SC
+0.002,0,3,3,North Greenville University,2,Priv_4-yr_No-prof,0.04,0.004,0.046,SC
+0,0,2,14,SUNY at Binghamton,1,Pub_4-yr,0.027,0.019,0.046,NY
+0,0,2,14,Molloy College,2,Priv_4-yr_No-prof,0.027,0.019,0.046,NY
+0,0,2,14,Cazenovia College,2,Priv_4-yr_No-prof,0.027,0.019,0.046,NY
+0,0,3,4,George Washington University,2,Priv_4-yr_No-prof,0.04,0.006,0.046,DC
+0.001,0,3,3,Central Ohio Technical College,4,Pub_2-yr,0.04,0.004,0.045,OH
+0.001,0,3,3,East Los Angeles College,4,Pub_2-yr,0.04,0.004,0.045,CA
+0.001,0,3,3,Golden West College,4,Pub_2-yr,0.04,0.004,0.045,CA
+0,0,2,13,Harford Community College,4,Pub_2-yr,0.027,0.018,0.045,MD
+0,0,1,23,Moberly Area Community College,4,Pub_2-yr,0.013,0.032,0.045,MO
+0.001,0,3,3,Orange Coast College,4,Pub_2-yr,0.04,0.004,0.045,CA
+0,0,2,13,River Valley Community College,4,Pub_2-yr,0.027,0.018,0.045,NH
+0.001,0,3,3,Washington State Community College,4,Pub_2-yr,0.04,0.004,0.045,OH
+0,0,1,23,Henry Ford College,1,Pub_4-yr,0.013,0.032,0.045,MI
+0,0,2,13,Fairleigh Dickinson University-Metropolitan Campus,2,Priv_4-yr_No-prof,0.027,0.018,0.045,NJ
+0,0,1,23,Austin Peay State University,1,Pub_4-yr,0.013,0.032,0.045,TN
+0.01,0.004,2,3,Cabrini University,2,Priv_4-yr_No-prof,0.027,0.004,0.045,PA
+0,0,2,12,Lakes Region Community College,4,Pub_2-yr,0.027,0.017,0.044,NH
+0,0,3,3,Terra State Community College,4,Pub_2-yr,0.04,0.004,0.044,OH
+0,0,3,3,Cincinnati State Technical and Community College,1,Pub_4-yr,0.04,0.004,0.044,OH
+0.01,0,2,5,Columbus State University,1,Pub_4-yr,0.027,0.007,0.044,GA
+0.013,0,2,3,Saint Peter's University,2,Priv_4-yr_No-prof,0.027,0.004,0.044,NJ
+0,0,3,3,Pepperdine University,2,Priv_4-yr_No-prof,0.04,0.004,0.044,CA
+0,0,1,22,Winthrop University,1,Pub_4-yr,0.013,0.031,0.044,SC
+0.013,0,2,2,Marymount Manhattan College,2,Priv_4-yr_No-prof,0.027,0.003,0.043,NY
+0.008,0.004,2,3,Lincoln Christian University,2,Priv_4-yr_No-prof,0.027,0.004,0.043,IL
+0,0.001,2,10,Ohlone College (formerly Ohlone Community College),4,Pub_2-yr,0.027,0.014,0.042,CA
+0,0,1,21,Bridgewater State University,1,Pub_4-yr,0.013,0.029,0.042,MA
+0.01,0.002,2,2,Jefferson College of Health Sciences,2,Priv_4-yr_No-prof,0.027,0.003,0.042,VA
+0,0,2,11,Chicago State University,1,Pub_4-yr,0.027,0.015,0.042,IL
+0,0,2,11,The College of Saint Rose,2,Priv_4-yr_No-prof,0.027,0.015,0.042,NY
+0,0,2,10,Elgin Community College,4,Pub_2-yr,0.027,0.014,0.041,IL
+0,0,1,20,Jefferson College,4,Pub_2-yr,0.013,0.028,0.041,MO
+0,0,1,20,Lake Area Technical Institute,4,Pub_2-yr,0.013,0.028,0.041,SD
+0,0,2,10,Manchester Community College - New Hampshire,4,Pub_2-yr,0.027,0.014,0.041,NH
+0,0,2,10,Nashua Community College,4,Pub_2-yr,0.027,0.014,0.041,NH
+0,0,2,10,NHTI-Concord's Community College,4,Pub_2-yr,0.027,0.014,0.041,NH
+0,0,1,20,North Central Missouri College,4,Pub_2-yr,0.013,0.028,0.041,MO
+0,0,1,20,Saint Louis Community College,4,Pub_2-yr,0.013,0.028,0.041,MO
+0,0,1,20,Three Rivers Community College - Missouri,4,Pub_2-yr,0.013,0.028,0.041,MO
+0,0,2,10,Shawnee State University,1,Pub_4-yr,0.027,0.014,0.041,OH
+0,0,2,10,Manhattan College,2,Priv_4-yr_No-prof,0.027,0.014,0.041,NY
+0.01,0,2,3,Morgan State University,1,Pub_4-yr,0.027,0.004,0.041,MD
+0.005,0,2,6,Carroll Community College,4,Pub_2-yr,0.027,0.008,0.04,MD
+0,0,2,9,Fayetteville Technical Community College,4,Pub_2-yr,0.027,0.013,0.04,NC
+0,0,2,9,New England Culinary Institute,3,Priv_4-yr-Profit,0.027,0.013,0.04,VT
+0.01,0,2,2,University of Phoenix-New Jersey,3,Priv_4-yr-Profit,0.027,0.003,0.04,NJ
+0.01,0,2,2,University of Maine,1,Pub_4-yr,0.027,0.003,0.04,ME
+0,0,1,19,Cayuga County Community College,4,Pub_2-yr,0.013,0.026,0.039,NY
+0,0,1,19,East Central College,4,Pub_2-yr,0.013,0.026,0.039,MO
+0.002,0,2,7,Heartland Community College,4,Pub_2-yr,0.027,0.01,0.039,IL
+0.002,0,2,7,Illinois Valley Community College,4,Pub_2-yr,0.027,0.01,0.039,IL
+0.002,0,2,7,Kishwaukee College,4,Pub_2-yr,0.027,0.01,0.039,IL
+0.002,0,2,7,MacCormac College,5,Priv_2-yr_No-prof,0.027,0.01,0.039,IL
+0,0,1,19,Ozarks Technical Community College,4,Pub_2-yr,0.013,0.026,0.039,MO
+0.002,0,2,7,Rock Valley College,4,Pub_2-yr,0.027,0.01,0.039,IL
+0.002,0,2,7,Sauk Valley Community College,4,Pub_2-yr,0.027,0.01,0.039,IL
+0.002,0,2,7,South Suburban College,4,Pub_2-yr,0.027,0.01,0.039,IL
+0.002,0,2,7,Waubonsee Community College,4,Pub_2-yr,0.027,0.01,0.039,IL
+0.009,0,2,2,Kent State University at East Liverpool,1,Pub_4-yr,0.027,0.003,0.039,OH
+0.006,0,2,4,Salem State University,1,Pub_4-yr,0.027,0.006,0.039,MA
+0.008,0,2,2,Long Island University-Brooklyn Campus,2,Priv_4-yr_No-prof,0.027,0.003,0.038,NY
+0.008,0,2,2,CUNY Queens College,1,Pub_4-yr,0.027,0.003,0.038,NY
+0.004,0.004,2,2,Lincoln University - California,2,Priv_4-yr_No-prof,0.027,0.003,0.038,CA
+0,0,2,8,Barstow Community College,4,Pub_2-yr,0.027,0.011,0.038,CA
+0,0,2,8,College of San Mateo,4,Pub_2-yr,0.027,0.011,0.038,CA
+0,0,2,8,College of the Desert,4,Pub_2-yr,0.027,0.011,0.038,CA
+0,0,1,18,Crowder College,4,Pub_2-yr,0.013,0.025,0.038,MO
+0,0,1,18,Kalamazoo Valley Community College,4,Pub_2-yr,0.013,0.025,0.038,MI
+0,0,1,18,Little Priest Tribal College,4,Pub_2-yr,0.013,0.025,0.038,NE
+0,0,2,8,Mendocino College,4,Pub_2-yr,0.027,0.011,0.038,CA
+0,0,2,8,Merritt College,4,Pub_2-yr,0.027,0.011,0.038,CA
+0,0,2,8,Mt Hood Community College,4,Pub_2-yr,0.027,0.011,0.038,OR
+0,0,1,18,Nebraska College of Technical Agriculture,4,Pub_2-yr,0.013,0.025,0.038,NE
+0,0,2,8,Prairie State College,4,Pub_2-yr,0.027,0.011,0.038,IL
+0,0,1,18,Northwestern Michigan College,1,Pub_4-yr,0.013,0.025,0.038,MI
+0,0,2,8,Whatcom Community College,1,Pub_4-yr,0.027,0.011,0.038,WA
+0,0,2,7,Delta College,4,Pub_2-yr,0.027,0.01,0.037,MI
+0,0,1,17,Hawkeye Community College,4,Pub_2-yr,0.013,0.024,0.037,IA
+0,0,1,17,Iowa Western Community College,4,Pub_2-yr,0.013,0.024,0.037,IA
+0,0,1,17,Mid-Plains Community College,4,Pub_2-yr,0.013,0.024,0.037,NE
+0,0,1,17,Nebraska Indian Community College,4,Pub_2-yr,0.013,0.024,0.037,NE
+0,0,1,17,Northeast Community College,4,Pub_2-yr,0.013,0.024,0.037,NE
+0,0,2,7,San Bernardino Valley College,4,Pub_2-yr,0.027,0.01,0.037,CA
+0,0,2,7,Victor Valley College,4,Pub_2-yr,0.027,0.01,0.037,CA
+0,0,2,7,White Mountains Community College,4,Pub_2-yr,0.027,0.01,0.037,NH
+0,0,2,7,Marymount California University,2,Priv_4-yr_No-prof,0.027,0.01,0.037,CA
+0,0,2,7,Shasta College,1,Pub_4-yr,0.027,0.01,0.037,CA
+0,0,2,7,CUNY New York City College of Technology,1,Pub_4-yr,0.027,0.01,0.037,NY
+0,0,2,7,Hilbert College,2,Priv_4-yr_No-prof,0.027,0.01,0.037,NY
+0.003,0.003,2,2,Alvernia University,2,Priv_4-yr_No-prof,0.027,0.003,0.036,PA
+0,0.009,1,10,Robert Morris University,2,Priv_4-yr_No-prof,0.013,0.014,0.036,PA
+0,0,2,6,Great Bay Community College,4,Pub_2-yr,0.027,0.008,0.035,NH
+0,0,2,6,Los Angeles Southwest College,4,Pub_2-yr,0.027,0.008,0.035,CA
+0,0,2,6,Los Medanos College,4,Pub_2-yr,0.027,0.008,0.035,CA
+0,0,2,6,Napa Valley College,4,Pub_2-yr,0.027,0.008,0.035,CA
+0,0,2,6,CUNY Brooklyn College,1,Pub_4-yr,0.027,0.008,0.035,NY
+0,0,2,6,Kennesaw State University,1,Pub_4-yr,0.027,0.008,0.035,GA
+0,0,1,16,Central Community College,4,Pub_2-yr,0.013,0.022,0.035,NE
+0,0.002,2,4,Folsom Lake College,4,Pub_2-yr,0.027,0.006,0.035,CA
+0,0,1,16,Metropolitan Community College Area,4,Pub_2-yr,0.013,0.022,0.035,NE
+0,0,1,16,Metropolitan Community College-Business & Technology,4,Pub_2-yr,0.013,0.022,0.035,MO
+0,0,1,16,Metropolitan Community College-Maple Woods,4,Pub_2-yr,0.013,0.022,0.035,MO
+0,0,2,5,Central Michigan University,1,Pub_4-yr,0.027,0.007,0.034,MI
+0,0,2,5,Foothill College,1,Pub_4-yr,0.027,0.007,0.034,CA
+0,0,2,5,Stevenson University,2,Priv_4-yr_No-prof,0.027,0.007,0.034,MD
+0,0,2,5,Capitol Technology University,2,Priv_4-yr_No-prof,0.027,0.007,0.034,MD
+0.004,0,2,2,CUNY College of Staten Island,1,Pub_4-yr,0.027,0.003,0.034,NY
+0,0,2,4,Cuyahoga Community College - Western Campus,4,Pub_2-yr,0.027,0.006,0.033,OH
+0,0,2,4,El Paso Community College,4,Pub_2-yr,0.027,0.006,0.033,TX
+0,0,2,4,Stark State College,4,Pub_2-yr,0.027,0.006,0.033,OH
+0,0,2,4,Rutgers University-Camden,1,Pub_4-yr,0.027,0.006,0.033,NJ
+0,0,2,4,Rochester Institute of Technology,2,Priv_4-yr_No-prof,0.027,0.006,0.033,NY
+0,0,2,4,Shenandoah University,2,Priv_4-yr_No-prof,0.027,0.006,0.033,VA
+0,0,1,14,Metropolitan Community College-Penn Valley,4,Pub_2-yr,0.013,0.019,0.032,MO
+0,0,1,14,Mineral Area College,4,Pub_2-yr,0.013,0.019,0.032,MO
+0,0.001,2,3,Sacramento City College,4,Pub_2-yr,0.027,0.004,0.032,CA
+0,0,1,14,Western Iowa Tech Community College,4,Pub_2-yr,0.013,0.019,0.032,IA
+0,0,1,14,Lesley University,2,Priv_4-yr_No-prof,0.013,0.019,0.032,MA
+0.002,0,2,2,SUNY at Purchase College,1,Pub_4-yr,0.027,0.003,0.032,NY
+0,0,1,14,St. Bonaventure University,2,Priv_4-yr_No-prof,0.013,0.019,0.032,NY
+0,0.011,1,6,Moore College of Art and Design,2,Priv_4-yr_No-prof,0.013,0.008,0.032,PA
+0,0,2,3,Ashland University,4,Pub_2-yr,0.027,0.004,0.031,OH
+0.001,0,2,2,Jefferson Community College,4,Pub_2-yr,0.027,0.003,0.031,NY
+0.001,0,2,2,Ventura College,4,Pub_2-yr,0.027,0.003,0.031,CA
+0.001,0,2,2,College of Central Florida,1,Pub_4-yr,0.027,0.003,0.031,FL
+0.001,0,2,2,Florida Gateway College,1,Pub_4-yr,0.027,0.003,0.031,FL
+0,0,2,3,Gulf Coast State College,1,Pub_4-yr,0.027,0.004,0.031,FL
+0.001,0,2,2,North Florida Community College,1,Pub_4-yr,0.027,0.003,0.031,FL
+0.001,0,2,2,Pasco-Hernando State College (formerly Pasco-Hernando Community College),1,Pub_4-yr,0.027,0.003,0.031,FL
+0.001,0,2,2,Pensacola State College,1,Pub_4-yr,0.027,0.003,0.031,FL
+0.001,0,2,2,Saint Johns River State College,1,Pub_4-yr,0.027,0.003,0.031,FL
+0.001,0,2,2,South Florida State College,1,Pub_4-yr,0.027,0.003,0.031,FL
+0.001,0,2,2,Tallahassee Community College,1,Pub_4-yr,0.027,0.003,0.031,FL
+0.001,0,2,2,Valencia College,1,Pub_4-yr,0.027,0.003,0.031,FL
+0,0,2,3,William Paterson University of New Jersey,1,Pub_4-yr,0.027,0.004,0.031,NJ
+0,0,2,3,Wells College,2,Priv_4-yr_No-prof,0.027,0.004,0.031,NY
+0,0,2,3,CUNY Hunter College,1,Pub_4-yr,0.027,0.004,0.031,NY
+0,0,2,3,CUNY Medgar Evers College,1,Pub_4-yr,0.027,0.004,0.031,NY
+0,0,2,3,Benedict College,2,Priv_4-yr_No-prof,0.027,0.004,0.031,SC
+0,0,1,13,Sam Houston State University,1,Pub_4-yr,0.013,0.018,0.031,TX
+0,0,2,3,Spartanburg Methodist College,2,Priv_4-yr_No-prof,0.027,0.004,0.031,SC
+0,0,2,2,Allan Hancock College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,2,2,Bunker Hill Community College,4,Pub_2-yr,0.027,0.003,0.03,MA
+0,0,2,2,Chabot College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,1,12,Citrus College,4,Pub_2-yr,0.013,0.017,0.03,CA
+0,0,2,2,Columbus State Community College,4,Pub_2-yr,0.027,0.003,0.03,OH
+0,0,2,2,De Anza College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,2,2,Fresno City College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,2,2,Georgia Perimeter College at Georgia State University,4,Pub_2-yr,0.027,0.003,0.03,GA
+0,0,2,2,Grossmont College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,2,2,Irvine Valley College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,2,2,Ivy Tech Community College,4,Pub_2-yr,0.027,0.003,0.03,IN
+0,0,2,2,Ivy Tech Community College-Bloomington,4,Pub_2-yr,0.027,0.003,0.03,IN
+0,0,2,2,Ivy Tech Community College-Columbus,4,Pub_2-yr,0.027,0.003,0.03,IN
+0,0,2,2,Ivy Tech Community College-East Central,4,Pub_2-yr,0.027,0.003,0.03,IN
+0,0,2,2,James A Rhodes State College,4,Pub_2-yr,0.027,0.003,0.03,OH
+0,0,2,2,Los Angeles City College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,2,2,Marion Technical College,4,Pub_2-yr,0.027,0.003,0.03,OH
+0,0,2,2,Massachusetts Bay Community College,4,Pub_2-yr,0.027,0.003,0.03,MA
+0,0,2,2,Merced College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,2,2,Mount Wachusett Community College,4,Pub_2-yr,0.027,0.003,0.03,MA
+0,0,2,2,Mt. San Antonio College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,2,2,North Shore Community College,4,Pub_2-yr,0.027,0.003,0.03,MA
+0,0,2,2,Oxnard College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,2,2,Quinsigamond Community College,4,Pub_2-yr,0.027,0.003,0.03,MA
+0,0,2,2,Santiago Canyon College,4,Pub_2-yr,0.027,0.003,0.03,CA
+0,0,2,2,Southern State Community College,4,Pub_2-yr,0.027,0.003,0.03,OH
+0,0,2,2,Antelope Valley College,1,Pub_4-yr,0.027,0.003,0.03,CA
+0,0,2,2,Bluffton University,2,Priv_4-yr_No-prof,0.027,0.003,0.03,OH
+0,0,2,2,Sinclair Community College,1,Pub_4-yr,0.027,0.003,0.03,OH
+0,0,2,2,West Los Angeles College,1,Pub_4-yr,0.027,0.003,0.03,CA
+0,0,2,2,Zane State College,1,Pub_4-yr,0.027,0.003,0.03,OH
+0,0,2,2,Medical University of South Carolina,1,Pub_4-yr,0.027,0.003,0.03,SC
+0,0,2,2,Voorhees College,2,Priv_4-yr_No-prof,0.027,0.003,0.03,SC
+0,0,1,12,Medaille College,2,Priv_4-yr_No-prof,0.013,0.017,0.03,NY
+0,0,1,12,Clark Atlanta University,2,Priv_4-yr_No-prof,0.013,0.017,0.03,GA
+0,0,1,11,Western Nebraska Community College,4,Pub_2-yr,0.013,0.015,0.028,NE
+0,0,1,10,Hawaii Community College,4,Pub_2-yr,0.013,0.014,0.027,HI
+0,0,1,10,Honolulu Community College,4,Pub_2-yr,0.013,0.014,0.027,HI
+0,0,1,10,Siena College,2,Priv_4-yr_No-prof,0.013,0.014,0.027,NY
+0,0.008,1,4,Pennsylvania State University-Penn State Erie-Behrend College,1,Pub_4-yr,0.013,0.006,0.027,PA
+0,0,1,9,Barton County Community College,4,Pub_2-yr,0.013,0.013,0.026,KS
+0,0,1,9,Central Oregon Community College,4,Pub_2-yr,0.013,0.013,0.026,OR
+0,0,1,9,Leeward Community College,4,Pub_2-yr,0.013,0.013,0.026,HI
+0,0,1,9,Mitchell Technical Institute,4,Pub_2-yr,0.013,0.013,0.026,SD
+0,0,1,9,Windward Community College,4,Pub_2-yr,0.013,0.013,0.026,HI
+0,0,1,9,Cascadia College,1,Pub_4-yr,0.013,0.013,0.026,WA
+0,0,1,9,Columbia Basin College,1,Pub_4-yr,0.013,0.013,0.026,WA
+0,0,1,9,Park University,2,Priv_4-yr_No-prof,0.013,0.013,0.026,MO
+0,0,1,8,Allen County Community College,4,Pub_2-yr,0.013,0.011,0.024,KS
+0,0,1,8,Bates Technical College,4,Pub_2-yr,0.013,0.011,0.024,WA
+0,0,1,8,Cloud County Community College,4,Pub_2-yr,0.013,0.011,0.024,KS
+0,0,1,8,Coffeyville Community College,4,Pub_2-yr,0.013,0.011,0.024,KS
+0,0,1,8,Colby Community College,4,Pub_2-yr,0.013,0.011,0.024,KS
+0,0,1,8,Eastern Gateway Community College,4,Pub_2-yr,0.013,0.011,0.024,OH
+0,0,1,8,Kauai Community College,4,Pub_2-yr,0.013,0.011,0.024,HI
+0,0,1,8,Montcalm Community College,4,Pub_2-yr,0.013,0.011,0.024,MI
+0,0,1,8,Pierce College at Puyallup,4,Pub_2-yr,0.013,0.011,0.024,WA
+0,0,1,8,Roane State Community College,4,Pub_2-yr,0.013,0.011,0.024,TN
+0,0,1,8,South Puget Sound Community College,4,Pub_2-yr,0.013,0.011,0.024,WA
+0,0,1,8,Bellingham Technical College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Big Bend Community College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Centralia College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Clover Park Technical College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Edmonds Community College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Front Range Community College,1,Pub_4-yr,0.013,0.011,0.024,CO
+0,0,1,8,Grays Harbor College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Green River College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Lake Washington Institute of Technology,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Lower Columbia College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Olympic College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Peninsula College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Pierce College at Fort Steilacoom,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Renton Technical College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Skagit Valley College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Spokane Community College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Tacoma Community College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Walla Walla Community College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Wenatchee Valley College,1,Pub_4-yr,0.013,0.011,0.024,WA
+0,0,1,8,Western Nevada College,1,Pub_4-yr,0.013,0.011,0.024,NV
+0,0,1,8,Montclair State University,1,Pub_4-yr,0.013,0.011,0.024,NJ
+0,0,1,8,Union College-Bennett Center,2,Priv_4-yr_No-prof,0.013,0.011,0.024,KY
+0,0,1,7,Community College of Aurora,4,Pub_2-yr,0.013,0.01,0.023,CO
+0,0,1,7,Cowley County Community College,4,Pub_2-yr,0.013,0.01,0.023,KS
+0,0,1,7,Dodge City Community College,4,Pub_2-yr,0.013,0.01,0.023,KS
+0,0,1,7,Garden City Community College,4,Pub_2-yr,0.013,0.01,0.023,KS
+0,0,1,7,Kellogg Community College,4,Pub_2-yr,0.013,0.01,0.023,MI
+0,0,1,7,Minnesota State Community and Technical College,4,Pub_2-yr,0.013,0.01,0.023,MN
+0,0,1,7,Northeastern Junior College,4,Pub_2-yr,0.013,0.01,0.023,CO
+0,0,1,7,Community College of Denver,1,Pub_4-yr,0.013,0.01,0.023,CO
+0,0,1,7,Highline Community College,1,Pub_4-yr,0.013,0.01,0.023,WA
+0,0,1,7,Morgan Community College,1,Pub_4-yr,0.013,0.01,0.023,CO
+0,0,1,7,Pikes Peak Community College,1,Pub_4-yr,0.013,0.01,0.023,CO
+0,0,1,7,Red Rocks Community College,1,Pub_4-yr,0.013,0.01,0.023,CO
+0,0,1,7,Trinidad State Junior College,1,Pub_4-yr,0.013,0.01,0.023,CO
+0,0,1,7,Truckee Meadows Community College,1,Pub_4-yr,0.013,0.01,0.023,NV
+0,0,1,7,North Dakota State University-Main Campus,1,Pub_4-yr,0.013,0.01,0.023,ND
+0,0,1,7,Merrimack College,2,Priv_4-yr_No-prof,0.013,0.01,0.023,MA
+0,0.004,1,4,Juniata College,2,Priv_4-yr_No-prof,0.013,0.006,0.023,PA
+0,0.005,1,3,Pennsylvania College of Technology,1,Pub_4-yr,0.013,0.004,0.022,PA
+0,0,1,6,Coconino Community College,4,Pub_2-yr,0.013,0.008,0.021,AZ
+0,0,1,6,Highland Community College - Kansas,4,Pub_2-yr,0.013,0.008,0.021,KS
+0,0,1,6,Hutchinson Community College,4,Pub_2-yr,0.013,0.008,0.021,KS
+0,0,1,6,Independence Community College,4,Pub_2-yr,0.013,0.008,0.021,KS
+0,0,1,6,Institute of Audio Research,9,Priv_Less_2-yr_Profit,0.013,0.008,0.021,NY
+0,0,1,6,Kansas City Kansas Community College,4,Pub_2-yr,0.013,0.008,0.021,KS
+0,0,1,6,Labette Community College,4,Pub_2-yr,0.013,0.008,0.021,KS
+0,0,1,6,Lamar Community College,4,Pub_2-yr,0.013,0.008,0.021,CO
+0,0,1,6,Muskegon Community College,4,Pub_2-yr,0.013,0.008,0.021,MI
+0,0,1,6,Neosho County Community College,4,Pub_2-yr,0.013,0.008,0.021,KS
+0,0,1,6,Otero Junior College,4,Pub_2-yr,0.013,0.008,0.021,CO
+0,0,1,6,Pratt Community College,4,Pub_2-yr,0.013,0.008,0.021,KS
+0,0,1,6,Seward County Community College and Area Technical School,4,Pub_2-yr,0.013,0.008,0.021,KS
+0,0,1,6,Western Dakota Technical Institute,4,Pub_2-yr,0.013,0.008,0.021,SD
+0,0,1,6,Morningside College,2,Priv_4-yr_No-prof,0.013,0.008,0.021,IA
+0,0,1,6,Wayne State College,1,Pub_4-yr,0.013,0.008,0.021,NE
+0,0,1,6,Wichita State University,1,Pub_4-yr,0.013,0.008,0.021,KS
+0,0,1,6,New Jersey City University,1,Pub_4-yr,0.013,0.008,0.021,NJ
+0,0,1,6,Thomas Jefferson University,2,Priv_4-yr_No-prof,0.013,0.008,0.021,PA
+0,0,1,5,College of the Redwoods,4,Pub_2-yr,0.013,0.007,0.02,CA
+0,0,1,5,Fort Scott Community College,4,Pub_2-yr,0.013,0.007,0.02,KS
+0,0,1,5,Taft College,4,Pub_2-yr,0.013,0.007,0.02,CA
+0,0,1,5,Trocaire College,2,Priv_4-yr_No-prof,0.013,0.007,0.02,NY
+0,0,1,5,University of Wisconsin-Marinette,1,Pub_4-yr,0.013,0.007,0.02,WI
+0,0,1,5,Felician College,2,Priv_4-yr_No-prof,0.013,0.007,0.02,NJ
+0,0,1,5,LIM College,3,Priv_4-yr-Profit,0.013,0.007,0.02,NY
+0,0,1,5,Providence College,2,Priv_4-yr_No-prof,0.013,0.007,0.02,RI
+0,0,1,5,Indiana State University,1,Pub_4-yr,0.013,0.007,0.02,IN
+0,0.004,1,2,Holy Family University,2,Priv_4-yr_No-prof,0.013,0.003,0.02,PA
+0,0.004,1,2,Villanova University,2,Priv_4-yr_No-prof,0.013,0.003,0.02,PA
+0,0,1,5,Northeastern University,2,Priv_4-yr_No-prof,0.013,0.007,0.02,MA
+0,0,1,4,Chemeketa Community College,4,Pub_2-yr,0.013,0.006,0.019,OR
+0,0,1,4,Delgado Community College,4,Pub_2-yr,0.013,0.006,0.019,LA
+0,0,1,4,Frederick Community College,4,Pub_2-yr,0.013,0.006,0.019,MD
+0,0,1,4,Mid Michigan Community College,4,Pub_2-yr,0.013,0.006,0.019,MI
+0,0,1,4,Southern Crescent Technical College,4,Pub_2-yr,0.013,0.006,0.019,GA
+0,0,1,4,State Fair Community College,4,Pub_2-yr,0.013,0.006,0.019,MO
+0,0,1,4,Umpqua Community College,4,Pub_2-yr,0.013,0.006,0.019,OR
+0,0,1,4,Albion College,2,Priv_4-yr_No-prof,0.013,0.006,0.019,MI
+0,0,1,4,Andrew College,2,Priv_4-yr_No-prof,0.013,0.006,0.019,GA
+0,0,1,4,Eastern Michigan University,1,Pub_4-yr,0.013,0.006,0.019,MI
+0,0,1,4,Fort Valley State University,1,Pub_4-yr,0.013,0.006,0.019,GA
+0,0,1,4,Madonna University,2,Priv_4-yr_No-prof,0.013,0.006,0.019,MI
+0,0,1,4,Marygrove College,2,Priv_4-yr_No-prof,0.013,0.006,0.019,MI
+0,0,1,4,Oregon State University-Cascades Campus,1,Pub_4-yr,0.013,0.006,0.019,OR
+0,0,1,4,Lyndon State College (merged into Northern Vermont University),1,Pub_4-yr,0.013,0.006,0.019,VT
+0,0,1,4,CUNY City College,1,Pub_4-yr,0.013,0.006,0.019,NY
+0,0,1,4,Tulane University of Louisiana,2,Priv_4-yr_No-prof,0.013,0.006,0.019,LA
+0,0,1,4,D'Youville College,2,Priv_4-yr_No-prof,0.013,0.006,0.019,NY
+0,0,1,4,Clarkson College,2,Priv_4-yr_No-prof,0.013,0.006,0.019,NE
+0,0,1,4,Eastern Oregon University,1,Pub_4-yr,0.013,0.006,0.019,OR
+0,0,1,4,Hampshire College,2,Priv_4-yr_No-prof,0.013,0.006,0.019,MA
+0,0,1,3,Gateway Technical College,4,Pub_2-yr,0.013,0.004,0.017,WI
+0,0,1,3,Georgia Northwestern Technical College (formerly Coosa Valley Technical College),4,Pub_2-yr,0.013,0.004,0.017,GA
+0,0,1,3,Gwinnett Technical College,4,Pub_2-yr,0.013,0.004,0.017,GA
+0,0,1,3,Texas State Technical College Harlingen,4,Pub_2-yr,0.013,0.004,0.017,TX
+0,0,1,3,Texas State Technical College Waco,4,Pub_2-yr,0.013,0.004,0.017,TX
+0,0,1,3,Texas State Technical College-Marshall,4,Pub_2-yr,0.013,0.004,0.017,TX
+0,0,1,3,Texas State Technical College-West Texas,4,Pub_2-yr,0.013,0.004,0.017,TX
+0,0,1,3,Delaware Technical Community College-Terry,1,Pub_4-yr,0.013,0.004,0.017,DE
+0,0,1,3,Feather River Community College District,1,Pub_4-yr,0.013,0.004,0.017,CA
+0,0,1,3,Texas State University,1,Pub_4-yr,0.013,0.004,0.017,TX
+0,0,1,3,Boston Architectural College,2,Priv_4-yr_No-prof,0.013,0.004,0.017,MA
+0,0,1,3,University of Alaska Fairbanks,1,Pub_4-yr,0.013,0.004,0.017,AK
+0,0,1,3,Bryant & Stratton College-Albany,3,Priv_4-yr-Profit,0.013,0.004,0.017,NY
+0,0,1,3,Montserrat College of Art,2,Priv_4-yr_No-prof,0.013,0.004,0.017,MA
+0,0,1,3,University of New Haven,2,Priv_4-yr_No-prof,0.013,0.004,0.017,CT
+0,0,1,3,Washington State University,1,Pub_4-yr,0.013,0.004,0.017,WA
+0,0,1,3,University of Michigan-Dearborn,1,Pub_4-yr,0.013,0.004,0.017,MI
+0,0,1,2,Amarillo College,4,Pub_2-yr,0.013,0.003,0.016,TX
+0,0,1,2,Black Hawk College,4,Pub_2-yr,0.013,0.003,0.016,IL
+0,0,1,2,Central Georgia Technical College,4,Pub_2-yr,0.013,0.003,0.016,GA
+0,0,1,2,Chattahoochee Technical College,4,Pub_2-yr,0.013,0.003,0.016,GA
+0,0,1,2,Community College of Allegheny County - Boyce,4,Pub_2-yr,0.013,0.003,0.016,PA
+0,0,1,2,Community College of Allegheny County - North,4,Pub_2-yr,0.013,0.003,0.016,PA
+0,0,2,3,Community College of Allegheny County - South,4,Pub_2-yr,0.013,0.003,0.016,PA
+0,0,1,2,Georgia Piedmont Technical College,4,Pub_2-yr,0.013,0.003,0.016,GA
+0,0,1,2,Houston Community College,4,Pub_2-yr,0.013,0.003,0.016,TX
+0,0,1,2,Howard Community College,4,Pub_2-yr,0.013,0.003,0.016,MD
+0,0,1,2,Imperial Valley College,4,Pub_2-yr,0.013,0.003,0.016,CA
+0,0,1,2,Linn-Benton Community College,4,Pub_2-yr,0.013,0.003,0.016,OR
+0,0,1,2,McLennan Community College,4,Pub_2-yr,0.013,0.003,0.016,TX
+0,0,1,2,San Antonio College,4,Pub_2-yr,0.013,0.003,0.016,TX
+0,0,1,2,South Plains College,4,Pub_2-yr,0.013,0.003,0.016,TX
+0,0,1,2,Southwestern Community College - Iowa,4,Pub_2-yr,0.013,0.003,0.016,IA
+0,0,1,2,Southwestern Illinois College,4,Pub_2-yr,0.013,0.003,0.016,IL
+0,0,1,2,Tarrant County College District,4,Pub_2-yr,0.013,0.003,0.016,TX
+0,0,1,2,Tulsa Community College,4,Pub_2-yr,0.013,0.003,0.016,OK
+0,0,1,2,Wor-Wic Community College,4,Pub_2-yr,0.013,0.003,0.016,MD
+0,0,1,2,Midland College,1,Pub_4-yr,0.013,0.003,0.016,TX
+0,0,1,2,Odessa College,1,Pub_4-yr,0.013,0.003,0.016,TX
+0,0,1,2,Pittsburgh Technical College (formerly Pittsburgh Technical Institute),2,Priv_4-yr_No-prof,0.013,0.003,0.016,PA
+0,0,1,2,San Jacinto Community College,1,Pub_4-yr,0.013,0.003,0.016,TX
+0,0,1,2,Massachusetts Maritime Academy,1,Pub_4-yr,0.013,0.003,0.016,MA
+0,0,1,2,Regis College,2,Priv_4-yr_No-prof,0.013,0.003,0.016,MA
+0,0,1,2,Nazareth College,2,Priv_4-yr_No-prof,0.013,0.003,0.016,NY
+0,0,1,2,Gannon University,2,Priv_4-yr_No-prof,0.013,0.003,0.016,PA
+0,0,1,2,Strayer University-South Carolina,3,Priv_4-yr-Profit,0.013,0.003,0.016,SC
+0,0,1,2,Lawrence Technological University,2,Priv_4-yr_No-prof,0.013,0.003,0.016,MI
+0,0.002,1,1,Chestnut Hill College,2,Priv_4-yr_No-prof,0.013,0.001,0.016,PA
+0,0.002,1,1,Delaware Valley University,2,Priv_4-yr_No-prof,0.013,0.001,0.016,PA
+0,0.002,1,1,La Salle University,2,Priv_4-yr_No-prof,0.013,0.001,0.016,PA
+0,0.002,1,1,Messiah University,2,Priv_4-yr_No-prof,0.013,0.001,0.016,PA
+0,0.002,1,1,Peirce College,2,Priv_4-yr_No-prof,0.013,0.001,0.016,PA
+0,0.002,1,1,Pennsylvania State University-Penn State Abington,1,Pub_4-yr,0.013,0.001,0.016,PA
+0,0.002,1,1,Philadelphia University,2,Priv_4-yr_No-prof,0.013,0.001,0.016,PA
+0,0.002,1,1,Rosemont College,2,Priv_4-yr_No-prof,0.013,0.001,0.016,PA
+0,0.002,1,1,Wilmington University,2,Priv_4-yr_No-prof,0.013,0.001,0.016,DE
+0,0,1,2,Charter Oak State College,1,Pub_4-yr,0.013,0.003,0.016,CT
+0,0,1,2,Georgetown University,2,Priv_4-yr_No-prof,0.013,0.003,0.016,DC
+0,0,1,2,Hofstra University,2,Priv_4-yr_No-prof,0.013,0.003,0.016,NY
+0,0,1,2,University of Oklahoma Norman Campus,1,Pub_4-yr,0.013,0.003,0.016,OK
+0,0,1,1,Alamance Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Arnot Ogden Medical Center,5,Priv_2-yr_No-prof,0.013,0.001,0.014,NY
+0,0,1,1,Asheville-Buncombe Technical Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Beaufort County Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Berkeley City College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Bevill State Community College,4,Pub_2-yr,0.013,0.001,0.014,AL
+0,0,1,1,Bladen Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Blinn College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Blue Mountain Community College,4,Pub_2-yr,0.013,0.001,0.014,OR
+0,0,1,1,Blue Ridge Community College - North Carolina,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Brunswick Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Caldwell Community College and Technical Institute,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Cape Fear Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Capital University,4,Pub_2-yr,0.013,0.001,0.014,OH
+0,0,1,1,Carteret Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Central Carolina Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Central New Mexico Community College,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,Central Piedmont Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Central Texas College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Cerro Coso Community College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Chaffey College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Cisco College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Clarendon College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Clatsop Community College,4,Pub_2-yr,0.013,0.001,0.014,OR
+0,0,1,1,Cleveland Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Clovis Community College,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,Coastal Carolina Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,College of Alameda,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,College of Marin,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,College of the Albemarle,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,College of the Sequoias,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,College of the Siskiyous,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Columbus Technical College,4,Pub_2-yr,0.013,0.001,0.014,GA
+0,0,1,1,Community College of Baltimore County,4,Pub_2-yr,0.013,0.001,0.014,MD
+0,0,1,1,Concorde Career College-Memphis,6,Priv_2-yr_Profit,0.013,0.001,0.014,TN
+0,0,1,1,Contra Costa College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Crafton Hills College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Craven Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Davidson County Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Davis College - Ohio,6,Priv_2-yr_Profit,0.013,0.001,0.014,OH
+0,0,1,1,Des Moines Area Community College,4,Pub_2-yr,0.013,0.001,0.014,IA
+0,0,1,1,Durham Technical Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Eastern Arizona College,4,Pub_2-yr,0.013,0.001,0.014,AZ
+0,0,1,1,Eastern New Mexico University-Roswell Campus,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,Eastern New Mexico University-Ruidoso Campus,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,Edgecombe Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,El Camino College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,El Camino Community College District,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Evergreen Valley College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Forsyth Technical Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Frank Phillips College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Gaston College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Gavilan College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Halifax Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Harcum College,5,Priv_2-yr_No-prof,0.013,0.001,0.014,PA
+0,0,1,1,Hartnell College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Haywood Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Highland Community College - Illinois,4,Pub_2-yr,0.013,0.001,0.014,IL
+0,0,1,1,Indian Hills Community College,4,Pub_2-yr,0.013,0.001,0.014,IA
+0,0,1,1,Isothermal Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Ivy Tech Community College-Central Office,4,Pub_2-yr,0.013,0.001,0.014,IN
+0,0,1,1,Ivy Tech Community College-Kokomo,4,Pub_2-yr,0.013,0.001,0.014,IN
+0,0,1,1,Ivy Tech Community College-Lafayette,4,Pub_2-yr,0.013,0.001,0.014,IN
+0,0,1,1,Ivy Tech Community College-Northcentral,4,Pub_2-yr,0.013,0.001,0.014,IN
+0,0,1,1,Ivy Tech Community College-Northeast,4,Pub_2-yr,0.013,0.001,0.014,IN
+0,0,1,1,Ivy Tech Community College-Northwest,4,Pub_2-yr,0.013,0.001,0.014,IN
+0,0,1,1,James Sprunt Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Johnston Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Lane Community College,4,Pub_2-yr,0.013,0.001,0.014,OR
+0,0,1,1,Laney College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Las Positas College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Lee College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Lenoir Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Lincoln Land Community College,4,Pub_2-yr,0.013,0.001,0.014,IL
+0,0,1,1,Los Angeles Harbor College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Los Angeles Trade Technical College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Luna Community College,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,Martin Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Mayland Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,McDowell Technical Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Mesalands Community College,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,Milwaukee Area Technical College,4,Pub_2-yr,0.013,0.001,0.014,WI
+0,0,1,1,Minnesota West Community and Technical College,4,Pub_2-yr,0.013,0.001,0.014,MN
+0,0,1,1,Missouri State University-West Plains,4,Pub_2-yr,0.013,0.001,0.014,MO
+0,0,1,1,Mitchell Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Mohave Community College,4,Pub_2-yr,0.013,0.001,0.014,AZ
+0,0,1,1,Monterey Peninsula College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Montgomery Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Mt. San Jacinto Community College District,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Nash Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Navarro College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,New Mexico Junior College,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,New Mexico Military Institute,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,Nicolet Area Technical College,4,Pub_2-yr,0.013,0.001,0.014,WI
+0,0,1,1,North Central Texas College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Northeast Texas Community College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Northern Maine Community College,4,Pub_2-yr,0.013,0.001,0.014,ME
+0,0,1,1,Northwest Vista College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Oakland Community College,4,Pub_2-yr,0.013,0.001,0.014,MI
+0,0,1,1,Palo Alto College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Palomar College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Pamlico Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Paris Junior College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Pitt Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Portland Community College,4,Pub_2-yr,0.013,0.001,0.014,OR
+0,0,1,1,Randolph Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Richmond Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Roanoke-Chowan Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Robeson Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Rockingham Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Rowan-Cabarrus Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Saint Louis Community College-Central Office,4,Pub_2-yr,0.013,0.001,0.014,MO
+0,0,1,1,Sampson Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,San Diego Miramar College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,San Jose City College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,San Juan College,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,Sandhills Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Santa Fe Community College,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,Seminole State College,4,Pub_2-yr,0.013,0.001,0.014,OK
+0,0,1,1,South Piedmont Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Southeastern Community College - North Carolina,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Southwest Texas Junior College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Southwestern Community College - North Carolina,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Southwestern Indian Polytechnic Institute,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,St Philip's College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Surry Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Temple College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Texarkana College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Texas Southmost College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Treasure Valley Community College,4,Pub_2-yr,0.013,0.001,0.014,OR
+0,0,1,1,Tri-County Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,University of New Mexico-Gallup Campus,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,University of New Mexico-Los Alamos Campus,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,University of New Mexico-Taos Campus,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,University of New Mexico-Valencia County Campus,4,Pub_2-yr,0.013,0.001,0.014,NM
+0,0,1,1,Vance-Granville Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Vernon College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Wake Technical Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Washtenaw Community College,4,Pub_2-yr,0.013,0.001,0.014,MI
+0,0,1,1,Wayne Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,West Kentucky Technical College,4,Pub_2-yr,0.013,0.001,0.014,KY
+0,0,1,1,West Valley College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Western Piedmont Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Western Texas College,4,Pub_2-yr,0.013,0.001,0.014,TX
+0,0,1,1,Wilkes Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Wilson Community College,4,Pub_2-yr,0.013,0.001,0.014,NC
+0,0,1,1,Yuba College,4,Pub_2-yr,0.013,0.001,0.014,CA
+0,0,1,1,Bradford School - Pennsylvania,6,Priv_2-yr_Profit,0.013,0.001,0.014,PA
+0,0,1,1,Austin Community College District,1,Pub_4-yr,0.013,0.001,0.014,TX
+0,0,1,1,Baldwin Wallace University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Belmont Abbey College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NC
+0,0,1,1,Brazosport College,1,Pub_4-yr,0.013,0.001,0.014,TX
+0,0,1,1,Cedarville University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Central State University,1,Pub_4-yr,0.013,0.001,0.014,OH
+0,0,1,1,Chadron State College,1,Pub_4-yr,0.013,0.001,0.014,NE
+0,0,1,1,Cleveland State University,1,Pub_4-yr,0.013,0.001,0.014,OH
+0,0,1,1,College of Menominee Nation,2,Priv_4-yr_No-prof,0.013,0.001,0.014,WI
+0,0,1,1,College of the Mainland,1,Pub_4-yr,0.013,0.001,0.014,TX
+0,0,1,1,Dakota Wesleyan University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,SD
+0,0,1,1,Dallas Baptist University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,TX
+0,0,1,1,Dean College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MA
+0,0,1,1,Defiance College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Dickinson College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,PA
+0,0,1,1,Dine College,1,Pub_4-yr,0.013,0.001,0.014,AZ
+0,0,1,1,Elon University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NC
+0,0,1,1,Ensign College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,UT
+0,0,1,1,Feather River College,1,Pub_4-yr,0.013,0.001,0.014,CA
+0,0,1,1,Furman University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,SC
+0,0,1,1,Grayson College,1,Pub_4-yr,0.013,0.001,0.014,TX
+0,0,1,1,Guilford College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NC
+0,0,1,1,Harvard University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MA
+0,0,1,1,Heidelberg University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Helene Fuld College of Nursing,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NY
+0,0,1,1,John Carroll University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Kent State University at Ashtabula,1,Pub_4-yr,0.013,0.001,0.014,OH
+0,0,1,1,Kent State University at Geauga,1,Pub_4-yr,0.013,0.001,0.014,OH
+0,0,1,1,Kent State University at Kent,1,Pub_4-yr,0.013,0.001,0.014,OH
+0,0,1,1,Kent State University at Salem,1,Pub_4-yr,0.013,0.001,0.014,OH
+0,0,1,1,Kent State University at Stark,1,Pub_4-yr,0.013,0.001,0.014,OH
+0,0,1,1,Kenyon College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Lake Erie College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Lake-Sumter Community College,1,Pub_4-yr,0.013,0.001,0.014,FL
+0,0,1,1,Landmark College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,VT
+0,0,1,1,Lone Star College System,1,Pub_4-yr,0.013,0.001,0.014,TX
+0,0,1,1,Marietta College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Mercy College of Ohio,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Modesto Junior College,1,Pub_4-yr,0.013,0.001,0.014,CA
+0,0,1,1,Mount Vernon Nazarene University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Navajo Technical College,1,Pub_4-yr,0.013,0.001,0.014,NM
+0,0,1,1,Northern New Mexico College,1,Pub_4-yr,0.013,0.001,0.014,NM
+0,0,1,1,Northern Vermont University (formerly Johnson State College),1,Pub_4-yr,0.013,0.001,0.014,VT
+0,0,1,1,Northwest Florida State College,1,Pub_4-yr,0.013,0.001,0.014,FL
+0,0,1,1,Oglala Lakota College,1,Pub_4-yr,0.013,0.001,0.014,SD
+0,0,1,1,Ohio Northern University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Ohio State University-Main Campus,1,Pub_4-yr,0.013,0.001,0.014,OH
+0,0,1,1,Otterbein University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Phillips Beth Israel School of Nursing,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NY
+0,0,1,1,Pillar College (formerly Somerset Christian College),2,Priv_4-yr_No-prof,0.013,0.001,0.014,NJ
+0,0,1,1,Polk State College,1,Pub_4-yr,0.013,0.001,0.014,FL
+0,0,1,1,Presbyterian College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,SC
+0,0,1,1,San Diego Mesa College,1,Pub_4-yr,0.013,0.001,0.014,CA
+0,0,1,1,Seminole State College of Florida,1,Pub_4-yr,0.013,0.001,0.014,FL
+0,0,1,1,Skyline College,1,Pub_4-yr,0.013,0.001,0.014,CA
+0,0,1,1,Snow College,1,Pub_4-yr,0.013,0.001,0.014,UT
+0,0,1,1,Stanbridge College,3,Priv_4-yr-Profit,0.013,0.001,0.014,CA
+0,0,1,1,The College of Wooster,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,The University of Findlay,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,The University of Texas at Brownsville,1,Pub_4-yr,0.013,0.001,0.014,TX
+0,0,1,1,Tiffin University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Tyler Junior College,1,Pub_4-yr,0.013,0.001,0.014,TX
+0,0,1,1,United Tribes Technical College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,ND
+0,0,1,1,University of Dayton,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,University of Jamestown (formerly Jamestown College),2,Priv_4-yr_No-prof,0.013,0.001,0.014,ND
+0,0,1,1,University of Mount Union,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,University of Northwestern Ohio,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,University of Rio Grande,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Urbana University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Ursuline College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Utah Valley University,1,Pub_4-yr,0.013,0.001,0.014,UT
+0,0,1,1,Walsh University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Weatherford College,1,Pub_4-yr,0.013,0.001,0.014,TX
+0,0,1,1,Wilberforce University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Wilmington College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Wittenberg University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Wofford College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,SC
+0,0,1,1,Xavier University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,Youngstown State University,1,Pub_4-yr,0.013,0.001,0.014,OH
+0,0,1,1,Georgia Military College,1,Pub_4-yr,0.013,0.001,0.014,GA
+0,0,1,1,Webster University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MO
+0,0,1,1,Aspen University,3,Priv_4-yr-Profit,0.013,0.001,0.014,CO
+0,0,1,1,Frostburg State University,1,Pub_4-yr,0.013,0.001,0.014,MD
+0,0,1,1,Sojourner-Douglass College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MD
+0,0,1,1,Wheeling Jesuit University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,WV
+0,0,1,1,Monmouth College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,IL
+0,0,1,1,Worcester Polytechnic Institute,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MA
+0,0,1,1,Eastern Nazarene College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MA
+0,0,1,1,Salve Regina University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,RI
+0,0,1,1,DeVry College of New York,3,Priv_4-yr-Profit,0.013,0.001,0.014,NY
+0,0,1,1,University of the Potomac - Washington DC Campus,3,Priv_4-yr-Profit,0.013,0.001,0.014,DC
+0,0,1,1,Potomac College-VA Campus,3,Priv_4-yr-Profit,0.013,0.001,0.014,VA
+0,0,1,1,SUNY Maritime College,1,Pub_4-yr,0.013,0.001,0.014,NY
+0,0,1,1,Stony Brook University,1,Pub_4-yr,0.013,0.001,0.014,NY
+0,0,1,1,Iowa State University,1,Pub_4-yr,0.013,0.001,0.014,IA
+0,0,1,1,Marist College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NY
+0,0,1,1,Farmingdale State College,1,Pub_4-yr,0.013,0.001,0.014,NY
+0,0,1,1,Vaughn College of Aeronautics and Technology,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NY
+0,0,1,1,Mount St. Mary's College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MD
+0,0,1,1,Ithaca College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NY
+0,0,1,1,The New School,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NY
+0,0,1,1,Coppin State University,1,Pub_4-yr,0.013,0.001,0.014,MD
+0,0,1,1,University of Phoenix-Arizona,3,Priv_4-yr-Profit,0.013,0.001,0.014,AZ
+0,0,1,1,South University-Columbia,3,Priv_4-yr-Profit,0.013,0.001,0.014,SC
+0,0,1,1,Berklee College of Music,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MA
+0,0,1,1,Georgia State University,1,Pub_4-yr,0.013,0.001,0.014,GA
+0,0,1,1,Oglethorpe University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,GA
+0,0,1,1,Glenville State College,1,Pub_4-yr,0.013,0.001,0.014,WV
+0,0,1,1,Norwich University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,VT
+0,0,1,1,Springfield College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MA
+0,0,1,1,Randolph-Macon College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,VA
+0,0,1,1,University of Richmond,2,Priv_4-yr_No-prof,0.013,0.001,0.014,VA
+0,0,1,1,University of Pittsburgh-Bradford,1,Pub_4-yr,0.013,0.001,0.014,PA
+0,0,1,1,Loyola University Maryland,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MD
+0,0,1,1,Bentley University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MA
+0,0,1,1,Fitchburg State University,1,Pub_4-yr,0.013,0.001,0.014,MA
+0,0,1,1,Allen University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,SC
+0,0,1,1,Southern Wesleyan University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,SC
+0,0,1,1,Columbia International University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,SC
+0,0,1,1,Abraham Baldwin Agricultural College,1,Pub_4-yr,0.013,0.001,0.014,GA
+0,0,1,1,Berea College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,KY
+0,0,1,1,Carson-Newman University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,TN
+0,0,1,1,East Tennessee State University,1,Pub_4-yr,0.013,0.001,0.014,TN
+0,0,1,1,King University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,TN
+0,0,1,1,Lincoln Memorial University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,TN
+0,0,1,1,Roanoke College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,VA
+0,0,1,1,Tusculum University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,TN
+0,0,1,1,Chamberlain College of Nursing-Ohio,3,Priv_4-yr-Profit,0.013,0.001,0.014,OH
+0,0,1,1,New Hampshire Institute of Art,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NH
+0,0,1,1,Gallaudet University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,DC
+0,0,1,1,National Louis University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,IL
+0,0,1,1,Trinity Washington University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,DC
+0,0,1,1,Alfred University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NY
+0,0,1,1,St. Thomas Aquinas College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NY
+0,0,1,1,Chowan University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NC
+0,0,1,1,Rutgers University-Newark,1,Pub_4-yr,0.013,0.001,0.014,NJ
+0,0,1,1,Union College - Kentucky,2,Priv_4-yr_No-prof,0.013,0.001,0.014,KY
+0,0,1,1,University of Nebraska Medical Center,1,Pub_4-yr,0.013,0.001,0.014,NE
+0,0,1,1,University of Nebraska at Kearney,1,Pub_4-yr,0.013,0.001,0.014,NE
+0,0,1,1,Husson University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,ME
+0,0,1,1,Sherman College of Straight Chiropractic,2,Priv_4-yr_No-prof,0.013,0.001,0.014,SC
+0,0,1,1,Rensselaer Polytechnic Institute,2,Priv_4-yr_No-prof,0.013,0.001,0.014,NY
+0,0,1,1,SUNY College of Technology at Delhi,1,Pub_4-yr,0.013,0.001,0.014,NY
+0,0,1,1,Brown Mackie College-Northern Kentucky,3,Priv_4-yr-Profit,0.013,0.001,0.014,KY
+0,0,1,1,Jamestown Business College,3,Priv_4-yr-Profit,0.013,0.001,0.014,NY
+0,0,1,1,Malone University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,OH
+0,0,1,1,University of Washington-Seattle Campus,1,Pub_4-yr,0.013,0.001,0.014,WA
+0,0,1,1,Johns Hopkins University,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MD
+0,0,1,1,Paine College,2,Priv_4-yr_No-prof,0.013,0.001,0.014,GA
+0,0,1,1,The New England Conservatory of Music,2,Priv_4-yr_No-prof,0.013,0.001,0.014,MA
+0,0,1,1,University of Southern California,2,Priv_4-yr_No-prof,0.013,0.001,0.014,CA
+0,0,1,1,Mayville State University,1,Pub_4-yr,0.013,0.001,0.014,ND
+0,0,1,1,FINE Mortuary College LLC,6,Priv_2-yr_Profit,0.013,0.001,0.014,MA
+0,0,1,1,Murray State College,4,Pub_2-yr,0.013,0.001,0.014,OK
+0,0,1,1,Environmental Technical Institute-Blue Island,9,Priv_Less_2-yr_Profit,0.013,0.001,0.014,IL
