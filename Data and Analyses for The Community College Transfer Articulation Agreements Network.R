@@ -65,7 +65,7 @@ str(a)
 a$strength <- as.numeric(a$V3)
 a$V3 <- as.numeric(a$V3)
 attach(a)
-library(reporttools)
+
 stats <- list("n", "mean", "s", "q1", "median", "q3", "min", "max")
 vars1 <- a[, c("strength", "V3")]
 cap1 <- "Agreements degree and strength by sector"
@@ -81,7 +81,7 @@ cent$Sector <- bank$sector[!duplicated(bank$id)][match(rownames(cent), bank$id[!
 cent$Sector <- ifelse(cent$Sector==4, "A. Public 2-year", ifelse(cent$Sector==1, "B. Public 4-year", ifelse(cent$Sector==2, "C. Private 4-year not profit", "D. Private 4-year profit")))
 head(cent)
 attach(cent)
-library(reporttools)
+
 stats <- list("n", "mean", "s", "q1", "median", "q3", "min", "max")
 vars1 <- cent[, c("degree", "strength")]
 cap1 <- "Agreements degree and strength by sector"
@@ -112,7 +112,7 @@ str(a)
 a$strength <- as.numeric(a$V3)
 a$V3 <- as.numeric(a$V3)
 attach(a)
-library(reporttools)
+
 stats <- list("n", "mean", "s", "q1", "median", "q3", "min", "max")
 vars1 <- a[, c("strength", "V3")]
 cap1 <- "Agreements degree and strength by sector"
@@ -127,7 +127,7 @@ cent$Sector <- bank$sector[!duplicated(bank$id)][match(rownames(cent), bank$id[!
 cent$Sector <- ifelse(cent$Sector==4, "A. Public 2-year", ifelse(cent$Sector==1, "B. Public 4-year", ifelse(cent$Sector==2, "C. Private 4-year not profit", "D. Private 4-year profit")))
 head(cent)
 attach(cent)
-library(reporttools)
+
 stats <- list("n", "mean", "s", "q1", "median", "q3", "min", "max")
 vars1 <- cent[, c("degree", "strength")]
 cap1 <- "Agreements degree and strength by sector"
@@ -159,7 +159,7 @@ str(a)
 a$strength <- as.numeric(a$V3)
 a$V3 <- as.numeric(a$V3)
 attach(a)
-library(reporttools)
+
 stats <- list("n", "mean", "s", "q1", "median", "q3", "min", "max")
 vars1 <- a[, c("strength", "V3")]
 cap1 <- "Agreements degree and strength by sector"
@@ -175,7 +175,7 @@ cent$Sector <- bank$sector[!duplicated(bank$id)][match(rownames(cent), bank$id[!
 cent$Sector <- ifelse(cent$Sector==4, "A. Public 2-year", ifelse(cent$Sector==1, "B. Public 4-year", ifelse(cent$Sector==2, "C. Private 4-year not profit", "D. Private 4-year profit")))
 head(cent)
 attach(cent)
-library(reporttools)
+
 stats <- list("n", "mean", "s", "q1", "median", "q3", "min", "max")
 vars1 <- cent[, c("degree", "strength")]
 cap1 <- "Agreements degree and strength by sector"
@@ -424,12 +424,7 @@ head(nld.in.priv.fp)
 nld.in.priv.fp[, 1]
 nld.in.priv.fp[, 2:3]
 
-install.packages("spdep")
-install.packages("tigris")
-library(tigris)
-library(dplyr)
-library(spdep)
-options(tigris_use_cache = TRUE)
+#State level data
 st <- read.csv("https://raw.githubusercontent.com/democratizing-data-science/Transfer-project-databases-and_code/main/states_analysis.csv")
 states <- states(cb = TRUE)
 "%ni%" <- Negate("%in%")
@@ -470,10 +465,11 @@ mphu <-ggplot(a, aes(x=x, y=wx, label=labels)) + geom_point(shape=1, alpha=0) + 
 ggplotly(mphu)#%>%htmlwidgets::prependContent(html_fix)
 }
 
+#Institution level data
 nl2 <- read.csv("https://raw.githubusercontent.com/democratizing-data-science/Transfer-project-databases-and_code/main/instituion_daset.csv")
 coords <- cbind(nl2$lon, nl2$lat)
 #First create a neighbors object reaching 1 mile (default is in KM)
-test.nb<-dnearneigh(coords, 0, (1.60934*30), row.names = nl2$CC.UNITID, longlat = TRUE)
+test.nb<-dnearneigh(coords, 0, (1.60934*60), row.names = nl2$CC.UNITID, longlat = TRUE)
 #Now create a list, similar to an edgelist in spatial form
 test.listw<-nb2listw(test.nb, zero.policy=TRUE)
 summary(test.listw)
@@ -501,14 +497,14 @@ mphu <-ggplot(a, aes(x=x, y=wx, text=labels)) + geom_point(shape=1, alpha=0) +
     geom_point(data=a[(a$x>=mean(a$x)&a$wx<mean(a$wx))&a$is_inf==TRUE,], aes(x=x, y=wx), shape=9, alpha=.8, colour=rgb(255, 0, 126, max=255, 255/1)) +
     xlab("Number of Agreements in Community College i") + ylab("Number of Agreements in Community College j") +
     xlim(-100, max(nl2$count)) + ylim(-100, max(nl2$lagged.count))+
-	ggtitle("Spatial Concentration of CC with partnerships located within 60 miles (i.e., 1 hour drive). Global Moran's I = 0.351 (p.val < 0.001)") 
+	ggtitle("Spatial Concentration of CC with partnerships located within 30 miles (i.e., 1/2 hour drive). Global Moran's I = 0.351 (p.val < 0.001)") 
 	#+
 ggplotly(mphu)#%>%htmlwidgets::prependContent(html_fix)
 }
 
 states$Median_Household.Income <- states$Median_Household.Income/1000
-#Regression based models PHUDCFILY
 
+#Regression based models PHUDCFILY
 #State level 
 m2 <- errorsarlm(formula = prop.CC.W.agrmnt ~ Core_lower_division + Pct.Poverty + Unemployment.rate + Median_Household.Income + College_or_more + Net_Migration, data = states, listw = nbl)#, weights = undup_count_i)
 m2$lambda
@@ -537,7 +533,7 @@ moran.test(hNULL,nbl, zero.policy=TRUE)
 
 stargazer(m2,m22,m23,m24,m1, header=FALSE, type='html', title = "SAR Models State level", out="models.htm")
 
-#Institution level 
+#Institution level Regression analyses
 nl2$Median_Household.Income <- nl2$Median_Household.Income/1000
 m2 <- errorsarlm(formula = count ~ Urban + activity.focus + student.time.focus + Inst.Size + Multi.Campus + comparison.group + Core_lower_division + Pct.Poverty + Unemployment.rate + Median_Household.Income + College_or_more + Net_Migration, data = nl2, listw = test.listw, zero.policy = T)#, weights = undup_count_i)
 m2$lambda
