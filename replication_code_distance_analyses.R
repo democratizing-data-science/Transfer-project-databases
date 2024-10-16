@@ -1,4 +1,4 @@
-#Code to replicate the analyses of distance impact in partnership formation
+#Code to replicate the analyses of distance impact in partnership formation [see Table 7 in the paper]
 b <- read.csv("https://raw.githubusercontent.com/democratizing-data-science/Transfer-project-databases-and_code/main/combination_institutions_final_version.csv")
 mod1 <- summary(lm(distance ~ has_aggrement + key_st, data = b))
 mod2 <- summary(lm(distance ~ has_aggrement + key_st, data = b[b$in_state==1,]))
