@@ -1,4 +1,4 @@
-#Statewide Policies Influence in Partnership Formation (Question 6)
+#Statewide Policies Influence in Partnership Formation (Question 6) [see Table 9 in the paper]
 a <- read.csv("https://raw.githubusercontent.com/democratizing-data-science/Transfer-project-databases-and_code/main/prop.colleges.w.agreements.csv")
 mods1 <- lm(prop_agg~numb, data=a)
 mods2 <- lm(prop_agg~Core_lower_division, data=a)
